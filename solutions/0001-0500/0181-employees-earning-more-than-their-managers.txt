@@ -1,0 +1,7 @@
+-- Write your PostgreSQL query statement below
+WITH Em AS (SELECT * FROM Employee WHERE managerId IS NOT NULL),
+Mg AS (SELECT * FROM Employee)
+
+SELECT Em.name AS "Employee"
+FROM Em INNER JOIN Mg ON Em.managerId = Mg.id
+WHERE Em.salary >  Mg.salary
