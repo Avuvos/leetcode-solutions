@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-![Total](https://img.shields.io/badge/Total-1583-blue) ![Easy](https://img.shields.io/badge/Easy-494-success) ![Medium](https://img.shields.io/badge/Medium-847-orange) ![Hard](https://img.shields.io/badge/Hard-242-red)
+![Total](https://img.shields.io/badge/Total-1584-blue) ![Easy](https://img.shields.io/badge/Easy-495-success) ![Medium](https://img.shields.io/badge/Medium-847-orange) ![Hard](https://img.shields.io/badge/Hard-242-red)
 
 My solutions for LeetCode problems.
 
 - **LeetCode Profile:** [Avuvos](https://leetcode.com/Avuvos/)
-- **Total Solved:** 1583
+- **Total Solved:** 1584
 - **Global Rank:** Top 0.32%
 
 ## Solutions
@@ -1580,6 +1580,7 @@ My solutions for LeetCode problems.
 | 3719 | [Longest Balanced Subarray I](https://leetcode.com/problems/longest-balanced-subarray-i/) | Medium | [python3](./solutions/3501-4000/3719-longest-balanced-subarray-i.py) |
 | 3759 | [Count Elements With at Least K Greater Values](https://leetcode.com/problems/count-elements-with-at-least-k-greater-values/) | Medium | [python3](./solutions/3501-4000/3759-count-elements-with-at-least-k-greater-values.py) |
 | 3761 | [Minimum Absolute Distance Between Mirror Pairs](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/) | Medium | [python3](./solutions/3501-4000/3761-minimum-absolute-distance-between-mirror-pairs.py) |
+| 3783 | [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) | Easy | [python3](./solutions/3501-4000/3783-mirror-distance-of-an-integer.py) |
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix/) | Easy | [python3](./solutions/3501-4000/3794-reverse-string-prefix.py) |
 | 3795 | [Minimum Subarray Length With Distinct Sum At Least K](https://leetcode.com/problems/minimum-subarray-length-with-distinct-sum-at-least-k/) | Medium | [cpp](./solutions/3501-4000/3795-minimum-subarray-length-with-distinct-sum-at-least-k.cpp) |
 | 3798 | [Largest Even Number](https://leetcode.com/problems/largest-even-number/) | Easy | [cpp](./solutions/3501-4000/3798-largest-even-number.cpp) |
