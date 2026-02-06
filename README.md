@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-![Total](https://img.shields.io/badge/Total-1584-blue) ![Easy](https://img.shields.io/badge/Easy-495-success) ![Medium](https://img.shields.io/badge/Medium-847-orange) ![Hard](https://img.shields.io/badge/Hard-242-red)
+![Total](https://img.shields.io/badge/Total-1586-blue) ![Easy](https://img.shields.io/badge/Easy-495-success) ![Medium](https://img.shields.io/badge/Medium-849-orange) ![Hard](https://img.shields.io/badge/Hard-242-red)
 
 My solutions for LeetCode problems.
 
 - **LeetCode Profile:** [Avuvos](https://leetcode.com/Avuvos/)
-- **Total Solved:** 1584
+- **Total Solved:** 1586
 - **Global Rank:** Top 0.32%
 
 ## Solutions
@@ -1581,8 +1581,10 @@ My solutions for LeetCode problems.
 | 3759 | [Count Elements With at Least K Greater Values](https://leetcode.com/problems/count-elements-with-at-least-k-greater-values/) | Medium | [python3](./solutions/3501-4000/3759-count-elements-with-at-least-k-greater-values.py) |
 | 3761 | [Minimum Absolute Distance Between Mirror Pairs](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/) | Medium | [python3](./solutions/3501-4000/3761-minimum-absolute-distance-between-mirror-pairs.py) |
 | 3783 | [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) | Easy | [python3](./solutions/3501-4000/3783-mirror-distance-of-an-integer.py) |
+| 3784 | [Minimum Deletion Cost to Make All Characters Equal](https://leetcode.com/problems/minimum-deletion-cost-to-make-all-characters-equal/) | Medium | [cpp](./solutions/3501-4000/3784-minimum-deletion-cost-to-make-all-characters-equal.cpp) |
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix/) | Easy | [python3](./solutions/3501-4000/3794-reverse-string-prefix.py) |
 | 3795 | [Minimum Subarray Length With Distinct Sum At Least K](https://leetcode.com/problems/minimum-subarray-length-with-distinct-sum-at-least-k/) | Medium | [cpp](./solutions/3501-4000/3795-minimum-subarray-length-with-distinct-sum-at-least-k.cpp) |
+| 3796 | [Find Maximum Value in a Constrained Sequence](https://leetcode.com/problems/find-maximum-value-in-a-constrained-sequence/) | Medium | [cpp](./solutions/3501-4000/3796-find-maximum-value-in-a-constrained-sequence.cpp) |
 | 3798 | [Largest Even Number](https://leetcode.com/problems/largest-even-number/) | Easy | [cpp](./solutions/3501-4000/3798-largest-even-number.cpp) |
 | 3799 | [Word Squares II](https://leetcode.com/problems/word-squares-ii/) | Medium | [cpp](./solutions/3501-4000/3799-word-squares-ii.cpp) |
 | 3800 | [Minimum Cost to Make Two Binary Strings Equal](https://leetcode.com/problems/minimum-cost-to-make-two-binary-strings-equal/) | Medium | [cpp](./solutions/3501-4000/3800-minimum-cost-to-make-two-binary-strings-equal.cpp) |
