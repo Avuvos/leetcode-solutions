@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-![Total](https://img.shields.io/badge/Total-1587-blue) ![Easy](https://img.shields.io/badge/Easy-495-success) ![Medium](https://img.shields.io/badge/Medium-849-orange) ![Hard](https://img.shields.io/badge/Hard-243-red)
+![Total](https://img.shields.io/badge/Total-1590-blue) ![Easy](https://img.shields.io/badge/Easy-496-success) ![Medium](https://img.shields.io/badge/Medium-851-orange) ![Hard](https://img.shields.io/badge/Hard-243-red)
 
 My solutions for LeetCode problems.
 
 - **LeetCode Profile:** [Avuvos](https://leetcode.com/Avuvos/)
-- **Total Solved:** 1587
+- **Total Solved:** 1590
 - **Global Rank:** Top 0.32%
 
 ## Solutions
@@ -1578,6 +1578,9 @@ My solutions for LeetCode problems.
 | 3713 | [Longest Balanced Substring I](https://leetcode.com/problems/longest-balanced-substring-i/) | Medium | [cpp](./solutions/3501-4000/3713-longest-balanced-substring-i.cpp) |
 | 3718 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | Easy | [python3](./solutions/3501-4000/3718-smallest-missing-multiple-of-k.py) |
 | 3719 | [Longest Balanced Subarray I](https://leetcode.com/problems/longest-balanced-subarray-i/) | Medium | [python3](./solutions/3501-4000/3719-longest-balanced-subarray-i.py) |
+| 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy | [cpp](./solutions/3501-4000/3754-concatenate-non-zero-digits-and-multiply-by-sum-i.cpp) |
+| 3755 | [Find Maximum Balanced XOR Subarray Length](https://leetcode.com/problems/find-maximum-balanced-xor-subarray-length/) | Medium | [cpp](./solutions/3501-4000/3755-find-maximum-balanced-xor-subarray-length.cpp) |
+| 3756 | [Concatenate Non-Zero Digits and Multiply by Sum II](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium | [cpp](./solutions/3501-4000/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii.cpp) |
 | 3759 | [Count Elements With at Least K Greater Values](https://leetcode.com/problems/count-elements-with-at-least-k-greater-values/) | Medium | [python3](./solutions/3501-4000/3759-count-elements-with-at-least-k-greater-values.py) |
 | 3761 | [Minimum Absolute Distance Between Mirror Pairs](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/) | Medium | [python3](./solutions/3501-4000/3761-minimum-absolute-distance-between-mirror-pairs.py) |
 | 3783 | [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) | Easy | [python3](./solutions/3501-4000/3783-mirror-distance-of-an-integer.py) |
