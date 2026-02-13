@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-![Total](https://img.shields.io/badge/Total-1590-blue) ![Easy](https://img.shields.io/badge/Easy-496-success) ![Medium](https://img.shields.io/badge/Medium-851-orange) ![Hard](https://img.shields.io/badge/Hard-243-red)
+![Total](https://img.shields.io/badge/Total-1595-blue) ![Easy](https://img.shields.io/badge/Easy-497-success) ![Medium](https://img.shields.io/badge/Medium-855-orange) ![Hard](https://img.shields.io/badge/Hard-243-red)
 
 My solutions for LeetCode problems.
 
 - **LeetCode Profile:** [Avuvos](https://leetcode.com/Avuvos/)
-- **Total Solved:** 1590
+- **Total Solved:** 1595
 - **Global Rank:** Top 0.32%
 
 ## Solutions
@@ -1578,11 +1578,16 @@ My solutions for LeetCode problems.
 | 3713 | [Longest Balanced Substring I](https://leetcode.com/problems/longest-balanced-substring-i/) | Medium | [cpp](./solutions/3501-4000/3713-longest-balanced-substring-i.cpp) |
 | 3718 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | Easy | [python3](./solutions/3501-4000/3718-smallest-missing-multiple-of-k.py) |
 | 3719 | [Longest Balanced Subarray I](https://leetcode.com/problems/longest-balanced-subarray-i/) | Medium | [python3](./solutions/3501-4000/3719-longest-balanced-subarray-i.py) |
+| 3745 | [Maximize Expression of Three Elements](https://leetcode.com/problems/maximize-expression-of-three-elements/) | Easy | [cpp](./solutions/3501-4000/3745-maximize-expression-of-three-elements.cpp) |
+| 3746 | [Minimum String Length After Balanced Removals](https://leetcode.com/problems/minimum-string-length-after-balanced-removals/) | Medium | [cpp](./solutions/3501-4000/3746-minimum-string-length-after-balanced-removals.cpp) |
+| 3747 | [Count Distinct Integers After Removing Zeros](https://leetcode.com/problems/count-distinct-integers-after-removing-zeros/) | Medium | [cpp](./solutions/3501-4000/3747-count-distinct-integers-after-removing-zeros.cpp) |
 | 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy | [cpp](./solutions/3501-4000/3754-concatenate-non-zero-digits-and-multiply-by-sum-i.cpp) |
 | 3755 | [Find Maximum Balanced XOR Subarray Length](https://leetcode.com/problems/find-maximum-balanced-xor-subarray-length/) | Medium | [cpp](./solutions/3501-4000/3755-find-maximum-balanced-xor-subarray-length.cpp) |
 | 3756 | [Concatenate Non-Zero Digits and Multiply by Sum II](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium | [cpp](./solutions/3501-4000/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii.cpp) |
 | 3759 | [Count Elements With at Least K Greater Values](https://leetcode.com/problems/count-elements-with-at-least-k-greater-values/) | Medium | [python3](./solutions/3501-4000/3759-count-elements-with-at-least-k-greater-values.py) |
 | 3761 | [Minimum Absolute Distance Between Mirror Pairs](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/) | Medium | [python3](./solutions/3501-4000/3761-minimum-absolute-distance-between-mirror-pairs.py) |
+| 3779 | [Minimum Number of Operations to Have Distinct Elements](https://leetcode.com/problems/minimum-number-of-operations-to-have-distinct-elements/) | Medium | [cpp](./solutions/3501-4000/3779-minimum-number-of-operations-to-have-distinct-elements.cpp) |
+| 3780 | [Maximum Sum of Three Numbers Divisible by Three](https://leetcode.com/problems/maximum-sum-of-three-numbers-divisible-by-three/) | Medium | [cpp](./solutions/3501-4000/3780-maximum-sum-of-three-numbers-divisible-by-three.cpp) |
 | 3783 | [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) | Easy | [python3](./solutions/3501-4000/3783-mirror-distance-of-an-integer.py) |
 | 3784 | [Minimum Deletion Cost to Make All Characters Equal](https://leetcode.com/problems/minimum-deletion-cost-to-make-all-characters-equal/) | Medium | [cpp](./solutions/3501-4000/3784-minimum-deletion-cost-to-make-all-characters-equal.cpp) |
 | 3786 | [Total Sum of Interaction Cost in Tree Groups](https://leetcode.com/problems/total-sum-of-interaction-cost-in-tree-groups/) | Hard | [cpp](./solutions/3501-4000/3786-total-sum-of-interaction-cost-in-tree-groups.cpp) |
