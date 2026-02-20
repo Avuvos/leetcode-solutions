@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-![Total](https://img.shields.io/badge/Total-1595-blue) ![Easy](https://img.shields.io/badge/Easy-497-success) ![Medium](https://img.shields.io/badge/Medium-855-orange) ![Hard](https://img.shields.io/badge/Hard-243-red)
+![Total](https://img.shields.io/badge/Total-1600-blue) ![Easy](https://img.shields.io/badge/Easy-498-success) ![Medium](https://img.shields.io/badge/Medium-858-orange) ![Hard](https://img.shields.io/badge/Hard-244-red)
 
 My solutions for LeetCode problems.
 
 - **LeetCode Profile:** [Avuvos](https://leetcode.com/Avuvos/)
-- **Total Solved:** 1595
+- **Total Solved:** 1600
 - **Global Rank:** Top 0.32%
 
 ## Solutions
@@ -1578,6 +1578,10 @@ My solutions for LeetCode problems.
 | 3713 | [Longest Balanced Substring I](https://leetcode.com/problems/longest-balanced-substring-i/) | Medium | [cpp](./solutions/3501-4000/3713-longest-balanced-substring-i.cpp) |
 | 3718 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | Easy | [python3](./solutions/3501-4000/3718-smallest-missing-multiple-of-k.py) |
 | 3719 | [Longest Balanced Subarray I](https://leetcode.com/problems/longest-balanced-subarray-i/) | Medium | [python3](./solutions/3501-4000/3719-longest-balanced-subarray-i.py) |
+| 3726 | [Remove Zeros in Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation/) | Easy | [cpp](./solutions/3501-4000/3726-remove-zeros-in-decimal-representation.cpp) |
+| 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | Medium | [cpp](./solutions/3501-4000/3727-maximum-alternating-sum-of-squares.cpp) |
+| 3728 | [Stable Subarrays With Equal Boundary and Interior Sum](https://leetcode.com/problems/stable-subarrays-with-equal-boundary-and-interior-sum/) | Medium | [cpp](./solutions/3501-4000/3728-stable-subarrays-with-equal-boundary-and-interior-sum.cpp) |
+| 3729 | [Count Distinct Subarrays Divisible by K in Sorted Array](https://leetcode.com/problems/count-distinct-subarrays-divisible-by-k-in-sorted-array/) | Hard | [cpp](./solutions/3501-4000/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array.cpp) |
 | 3745 | [Maximize Expression of Three Elements](https://leetcode.com/problems/maximize-expression-of-three-elements/) | Easy | [cpp](./solutions/3501-4000/3745-maximize-expression-of-three-elements.cpp) |
 | 3746 | [Minimum String Length After Balanced Removals](https://leetcode.com/problems/minimum-string-length-after-balanced-removals/) | Medium | [cpp](./solutions/3501-4000/3746-minimum-string-length-after-balanced-removals.cpp) |
 | 3747 | [Count Distinct Integers After Removing Zeros](https://leetcode.com/problems/count-distinct-integers-after-removing-zeros/) | Medium | [cpp](./solutions/3501-4000/3747-count-distinct-integers-after-removing-zeros.cpp) |
@@ -1607,3 +1611,4 @@ My solutions for LeetCode problems.
 | 3812 | [Minimum Edge Toggles on a Tree](https://leetcode.com/problems/minimum-edge-toggles-on-a-tree/) | Hard | [cpp](./solutions/3501-4000/3812-minimum-edge-toggles-on-a-tree.cpp) |
 | 3813 | [Vowel-Consonant Score](https://leetcode.com/problems/vowel-consonant-score/) | Easy | [cpp](./solutions/3501-4000/3813-vowel-consonant-score.cpp) |
 | 3814 | [Maximum Capacity Within Budget](https://leetcode.com/problems/maximum-capacity-within-budget/) | Medium | [cpp](./solutions/3501-4000/3814-maximum-capacity-within-budget.cpp) |
+| 3835 | [Count Subarrays With Cost Less Than or Equal to K](https://leetcode.com/problems/count-subarrays-with-cost-less-than-or-equal-to-k/) | Medium | [python3](./solutions/3501-4000/3835-count-subarrays-with-cost-less-than-or-equal-to-k.py) |
