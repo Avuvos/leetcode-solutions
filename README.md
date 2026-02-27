@@ -1,12 +1,12 @@
 # LeetCode Solutions
 
-![Total](https://img.shields.io/badge/Total-1600-blue) ![Easy](https://img.shields.io/badge/Easy-498-success) ![Medium](https://img.shields.io/badge/Medium-858-orange) ![Hard](https://img.shields.io/badge/Hard-244-red)
+![Total](https://img.shields.io/badge/Total-1614-blue) ![Easy](https://img.shields.io/badge/Easy-500-success) ![Medium](https://img.shields.io/badge/Medium-867-orange) ![Hard](https://img.shields.io/badge/Hard-247-red)
 
 My solutions for LeetCode problems.
 
 - **LeetCode Profile:** [Avuvos](https://leetcode.com/Avuvos/)
-- **Total Solved:** 1600
-- **Global Rank:** Top 0.32%
+- **Total Solved:** 1614
+- **Global Rank:** Top 0.31%
 
 ## Solutions
 
@@ -1590,11 +1590,24 @@ My solutions for LeetCode problems.
 | 3756 | [Concatenate Non-Zero Digits and Multiply by Sum II](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium | [cpp](./solutions/3501-4000/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii.cpp) |
 | 3759 | [Count Elements With at Least K Greater Values](https://leetcode.com/problems/count-elements-with-at-least-k-greater-values/) | Medium | [python3](./solutions/3501-4000/3759-count-elements-with-at-least-k-greater-values.py) |
 | 3761 | [Minimum Absolute Distance Between Mirror Pairs](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/) | Medium | [python3](./solutions/3501-4000/3761-minimum-absolute-distance-between-mirror-pairs.py) |
+| 3765 | [Complete Prime Number](https://leetcode.com/problems/complete-prime-number/) | Medium | [cpp](./solutions/3501-4000/3765-complete-prime-number.cpp) |
+| 3766 | [Minimum Operations to Make Binary Palindrome](https://leetcode.com/problems/minimum-operations-to-make-binary-palindrome/) | Medium | [cpp](./solutions/3501-4000/3766-minimum-operations-to-make-binary-palindrome.cpp) |
+| 3767 | [Maximize Points After Choosing K Tasks](https://leetcode.com/problems/maximize-points-after-choosing-k-tasks/) | Medium | [cpp](./solutions/3501-4000/3767-maximize-points-after-choosing-k-tasks.cpp) |
+| 3768 | [Minimum Inversion Count in Subarrays of Fixed Length](https://leetcode.com/problems/minimum-inversion-count-in-subarrays-of-fixed-length/) | Hard | [cpp](./solutions/3501-4000/3768-minimum-inversion-count-in-subarrays-of-fixed-length.cpp) |
+| 3769 | [Sort Integers by Binary Reflection](https://leetcode.com/problems/sort-integers-by-binary-reflection/) | Easy | [cpp](./solutions/3501-4000/3769-sort-integers-by-binary-reflection.cpp) |
+| 3770 | [Largest Prime from Consecutive Prime Sum](https://leetcode.com/problems/largest-prime-from-consecutive-prime-sum/) | Medium | [cpp](./solutions/3501-4000/3770-largest-prime-from-consecutive-prime-sum.cpp) |
+| 3771 | [Total Score of Dungeon Runs](https://leetcode.com/problems/total-score-of-dungeon-runs/) | Medium | [cpp](./solutions/3501-4000/3771-total-score-of-dungeon-runs.cpp) |
+| 3772 | [Maximum Subgraph Score in a Tree](https://leetcode.com/problems/maximum-subgraph-score-in-a-tree/) | Hard | [cpp](./solutions/3501-4000/3772-maximum-subgraph-score-in-a-tree.cpp) |
 | 3779 | [Minimum Number of Operations to Have Distinct Elements](https://leetcode.com/problems/minimum-number-of-operations-to-have-distinct-elements/) | Medium | [cpp](./solutions/3501-4000/3779-minimum-number-of-operations-to-have-distinct-elements.cpp) |
 | 3780 | [Maximum Sum of Three Numbers Divisible by Three](https://leetcode.com/problems/maximum-sum-of-three-numbers-divisible-by-three/) | Medium | [cpp](./solutions/3501-4000/3780-maximum-sum-of-three-numbers-divisible-by-three.cpp) |
 | 3783 | [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) | Easy | [python3](./solutions/3501-4000/3783-mirror-distance-of-an-integer.py) |
 | 3784 | [Minimum Deletion Cost to Make All Characters Equal](https://leetcode.com/problems/minimum-deletion-cost-to-make-all-characters-equal/) | Medium | [cpp](./solutions/3501-4000/3784-minimum-deletion-cost-to-make-all-characters-equal.cpp) |
 | 3786 | [Total Sum of Interaction Cost in Tree Groups](https://leetcode.com/problems/total-sum-of-interaction-cost-in-tree-groups/) | Hard | [cpp](./solutions/3501-4000/3786-total-sum-of-interaction-cost-in-tree-groups.cpp) |
+| 3788 | [Maximum Score of a Split](https://leetcode.com/problems/maximum-score-of-a-split/) | Medium | [cpp](./solutions/3501-4000/3788-maximum-score-of-a-split.cpp) |
+| 3789 | [Minimum Cost to Acquire Required Items](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/) | Medium | [cpp](./solutions/3501-4000/3789-minimum-cost-to-acquire-required-items.cpp) |
+| 3790 | [Smallest All-Ones Multiple](https://leetcode.com/problems/smallest-all-ones-multiple/) | Medium | [cpp](./solutions/3501-4000/3790-smallest-all-ones-multiple.cpp) |
+| 3791 | [Number of Balanced Integers in a Range](https://leetcode.com/problems/number-of-balanced-integers-in-a-range/) | Hard | [cpp](./solutions/3501-4000/3791-number-of-balanced-integers-in-a-range.cpp) |
+| 3793 | [Find Users with High Token Usage](https://leetcode.com/problems/find-users-with-high-token-usage/) | Easy | [postgresql](./solutions/3501-4000/3793-find-users-with-high-token-usage.txt) |
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix/) | Easy | [python3](./solutions/3501-4000/3794-reverse-string-prefix.py) |
 | 3795 | [Minimum Subarray Length With Distinct Sum At Least K](https://leetcode.com/problems/minimum-subarray-length-with-distinct-sum-at-least-k/) | Medium | [cpp](./solutions/3501-4000/3795-minimum-subarray-length-with-distinct-sum-at-least-k.cpp) |
 | 3796 | [Find Maximum Value in a Constrained Sequence](https://leetcode.com/problems/find-maximum-value-in-a-constrained-sequence/) | Medium | [cpp](./solutions/3501-4000/3796-find-maximum-value-in-a-constrained-sequence.cpp) |
@@ -1611,4 +1624,5 @@ My solutions for LeetCode problems.
 | 3812 | [Minimum Edge Toggles on a Tree](https://leetcode.com/problems/minimum-edge-toggles-on-a-tree/) | Hard | [cpp](./solutions/3501-4000/3812-minimum-edge-toggles-on-a-tree.cpp) |
 | 3813 | [Vowel-Consonant Score](https://leetcode.com/problems/vowel-consonant-score/) | Easy | [cpp](./solutions/3501-4000/3813-vowel-consonant-score.cpp) |
 | 3814 | [Maximum Capacity Within Budget](https://leetcode.com/problems/maximum-capacity-within-budget/) | Medium | [cpp](./solutions/3501-4000/3814-maximum-capacity-within-budget.cpp) |
+| 3815 | [Design Auction System](https://leetcode.com/problems/design-auction-system/) | Medium | [cpp](./solutions/3501-4000/3815-design-auction-system.cpp) |
 | 3835 | [Count Subarrays With Cost Less Than or Equal to K](https://leetcode.com/problems/count-subarrays-with-cost-less-than-or-equal-to-k/) | Medium | [python3](./solutions/3501-4000/3835-count-subarrays-with-cost-less-than-or-equal-to-k.py) |
