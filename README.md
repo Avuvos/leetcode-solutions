@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-![Total](https://img.shields.io/badge/Total-1614-blue) ![Easy](https://img.shields.io/badge/Easy-500-success) ![Medium](https://img.shields.io/badge/Medium-867-orange) ![Hard](https://img.shields.io/badge/Hard-247-red)
+![Total](https://img.shields.io/badge/Total-1618-blue) ![Easy](https://img.shields.io/badge/Easy-501-success) ![Medium](https://img.shields.io/badge/Medium-869-orange) ![Hard](https://img.shields.io/badge/Hard-248-red)
 
 My solutions for LeetCode problems.
 
 - **LeetCode Profile:** [Avuvos](https://leetcode.com/Avuvos/)
-- **Total Solved:** 1614
+- **Total Solved:** 1618
 - **Global Rank:** Top 0.31%
 
 ## Solutions
@@ -1626,3 +1626,7 @@ My solutions for LeetCode problems.
 | 3814 | [Maximum Capacity Within Budget](https://leetcode.com/problems/maximum-capacity-within-budget/) | Medium | [cpp](./solutions/3501-4000/3814-maximum-capacity-within-budget.cpp) |
 | 3815 | [Design Auction System](https://leetcode.com/problems/design-auction-system/) | Medium | [cpp](./solutions/3501-4000/3815-design-auction-system.cpp) |
 | 3835 | [Count Subarrays With Cost Less Than or Equal to K](https://leetcode.com/problems/count-subarrays-with-cost-less-than-or-equal-to-k/) | Medium | [python3](./solutions/3501-4000/3835-count-subarrays-with-cost-less-than-or-equal-to-k.py) |
+| 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels/) | Easy | [cpp](./solutions/3501-4000/3856-trim-trailing-vowels.cpp) |
+| 3857 | [Minimum Cost to Split into Ones](https://leetcode.com/problems/minimum-cost-to-split-into-ones/) | Medium | [cpp](./solutions/3501-4000/3857-minimum-cost-to-split-into-ones.cpp) |
+| 3858 | [Minimum Bitwise OR From Grid](https://leetcode.com/problems/minimum-bitwise-or-from-grid/) | Medium | [cpp](./solutions/3501-4000/3858-minimum-bitwise-or-from-grid.cpp) |
+| 3859 | [Count Subarrays With K Distinct Integers](https://leetcode.com/problems/count-subarrays-with-k-distinct-integers/) | Hard | [cpp](./solutions/3501-4000/3859-count-subarrays-with-k-distinct-integers.cpp) |
