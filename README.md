@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-![Total](https://img.shields.io/badge/Total-1618-blue) ![Easy](https://img.shields.io/badge/Easy-501-success) ![Medium](https://img.shields.io/badge/Medium-869-orange) ![Hard](https://img.shields.io/badge/Hard-248-red)
+![Total](https://img.shields.io/badge/Total-1624-blue) ![Easy](https://img.shields.io/badge/Easy-503-success) ![Medium](https://img.shields.io/badge/Medium-873-orange) ![Hard](https://img.shields.io/badge/Hard-248-red)
 
 My solutions for LeetCode problems.
 
 - **LeetCode Profile:** [Avuvos](https://leetcode.com/Avuvos/)
-- **Total Solved:** 1618
+- **Total Solved:** 1624
 - **Global Rank:** Top 0.31%
 
 ## Solutions
@@ -1625,7 +1625,13 @@ My solutions for LeetCode problems.
 | 3813 | [Vowel-Consonant Score](https://leetcode.com/problems/vowel-consonant-score/) | Easy | [cpp](./solutions/3501-4000/3813-vowel-consonant-score.cpp) |
 | 3814 | [Maximum Capacity Within Budget](https://leetcode.com/problems/maximum-capacity-within-budget/) | Medium | [cpp](./solutions/3501-4000/3814-maximum-capacity-within-budget.cpp) |
 | 3815 | [Design Auction System](https://leetcode.com/problems/design-auction-system/) | Medium | [cpp](./solutions/3501-4000/3815-design-auction-system.cpp) |
+| 3823 | [Reverse Letters Then Special Characters in a String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string/) | Easy | [cpp](./solutions/3501-4000/3823-reverse-letters-then-special-characters-in-a-string.cpp) |
+| 3824 | [Minimum K to Reduce Array Within Limit](https://leetcode.com/problems/minimum-k-to-reduce-array-within-limit/) | Medium | [cpp](./solutions/3501-4000/3824-minimum-k-to-reduce-array-within-limit.cpp) |
+| 3825 | [Longest Strictly Increasing Subsequence With Non-Zero Bitwise AND](https://leetcode.com/problems/longest-strictly-increasing-subsequence-with-non-zero-bitwise-and/) | Medium | [cpp](./solutions/3501-4000/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and.cpp) |
 | 3835 | [Count Subarrays With Cost Less Than or Equal to K](https://leetcode.com/problems/count-subarrays-with-cost-less-than-or-equal-to-k/) | Medium | [python3](./solutions/3501-4000/3835-count-subarrays-with-cost-less-than-or-equal-to-k.py) |
+| 3852 | [Smallest Pair With Different Frequencies](https://leetcode.com/problems/smallest-pair-with-different-frequencies/) | Easy | [cpp](./solutions/3501-4000/3852-smallest-pair-with-different-frequencies.cpp) |
+| 3853 | [Merge Close Characters](https://leetcode.com/problems/merge-close-characters/) | Medium | [cpp](./solutions/3501-4000/3853-merge-close-characters.cpp) |
+| 3854 | [Minimum Operations to Make Array Parity Alternating](https://leetcode.com/problems/minimum-operations-to-make-array-parity-alternating/) | Medium | [cpp](./solutions/3501-4000/3854-minimum-operations-to-make-array-parity-alternating.cpp) |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels/) | Easy | [cpp](./solutions/3501-4000/3856-trim-trailing-vowels.cpp) |
 | 3857 | [Minimum Cost to Split into Ones](https://leetcode.com/problems/minimum-cost-to-split-into-ones/) | Medium | [cpp](./solutions/3501-4000/3857-minimum-cost-to-split-into-ones.cpp) |
 | 3858 | [Minimum Bitwise OR From Grid](https://leetcode.com/problems/minimum-bitwise-or-from-grid/) | Medium | [cpp](./solutions/3501-4000/3858-minimum-bitwise-or-from-grid.cpp) |
