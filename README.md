@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-![Total](https://img.shields.io/badge/Total-1624-blue) ![Easy](https://img.shields.io/badge/Easy-503-success) ![Medium](https://img.shields.io/badge/Medium-873-orange) ![Hard](https://img.shields.io/badge/Hard-248-red)
+![Total](https://img.shields.io/badge/Total-1651-blue) ![Easy](https://img.shields.io/badge/Easy-510-success) ![Medium](https://img.shields.io/badge/Medium-886-orange) ![Hard](https://img.shields.io/badge/Hard-255-red)
 
 My solutions for LeetCode problems.
 
 - **LeetCode Profile:** [Avuvos](https://leetcode.com/Avuvos/)
-- **Total Solved:** 1624
+- **Total Solved:** 1651
 - **Global Rank:** Top 0.31%
 
 ## Solutions
@@ -1574,6 +1574,14 @@ My solutions for LeetCode problems.
 | 3568 | [Minimum Moves to Clean the Classroom](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/) | Medium | [cpp](./solutions/3501-4000/3568-minimum-moves-to-clean-the-classroom.cpp) |
 | 3668 | [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order/) | Easy | [cpp](./solutions/3501-4000/3668-restore-finishing-order.cpp) |
 | 3669 | [Balanced K-Factor Decomposition](https://leetcode.com/problems/balanced-k-factor-decomposition/) | Medium | [cpp](./solutions/3501-4000/3669-balanced-k-factor-decomposition.cpp) |
+| 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum/) | Easy | [cpp](./solutions/3501-4000/3701-compute-alternating-sum.cpp) |
+| 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/) | Medium | [cpp](./solutions/3501-4000/3702-longest-subsequence-with-non-zero-bitwise-xor.cpp) |
+| 3703 | [Remove K-Balanced Substrings](https://leetcode.com/problems/remove-k-balanced-substrings/) | Medium | [cpp](./solutions/3501-4000/3703-remove-k-balanced-substrings.cpp) |
+| 3704 | [Count No-Zero Pairs That Sum to N](https://leetcode.com/problems/count-no-zero-pairs-that-sum-to-n/) | Hard | [cpp](./solutions/3501-4000/3704-count-no-zero-pairs-that-sum-to-n.cpp) |
+| 3707 | [Equal Score Substrings](https://leetcode.com/problems/equal-score-substrings/) | Easy | [cpp](./solutions/3501-4000/3707-equal-score-substrings.cpp) |
+| 3708 | [Longest Fibonacci Subarray](https://leetcode.com/problems/longest-fibonacci-subarray/) | Medium | [cpp](./solutions/3501-4000/3708-longest-fibonacci-subarray.cpp) |
+| 3709 | [Design Exam Scores Tracker](https://leetcode.com/problems/design-exam-scores-tracker/) | Medium | [cpp](./solutions/3501-4000/3709-design-exam-scores-tracker.cpp) |
+| 3710 | [Maximum Partition Factor](https://leetcode.com/problems/maximum-partition-factor/) | Hard | [cpp](./solutions/3501-4000/3710-maximum-partition-factor.cpp) |
 | 3712 | [Sum of Elements With Frequency Divisible by K](https://leetcode.com/problems/sum-of-elements-with-frequency-divisible-by-k/) | Easy | [cpp](./solutions/3501-4000/3712-sum-of-elements-with-frequency-divisible-by-k.cpp) |
 | 3713 | [Longest Balanced Substring I](https://leetcode.com/problems/longest-balanced-substring-i/) | Medium | [cpp](./solutions/3501-4000/3713-longest-balanced-substring-i.cpp) |
 | 3718 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | Easy | [python3](./solutions/3501-4000/3718-smallest-missing-multiple-of-k.py) |
@@ -1582,6 +1590,8 @@ My solutions for LeetCode problems.
 | 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | Medium | [cpp](./solutions/3501-4000/3727-maximum-alternating-sum-of-squares.cpp) |
 | 3728 | [Stable Subarrays With Equal Boundary and Interior Sum](https://leetcode.com/problems/stable-subarrays-with-equal-boundary-and-interior-sum/) | Medium | [cpp](./solutions/3501-4000/3728-stable-subarrays-with-equal-boundary-and-interior-sum.cpp) |
 | 3729 | [Count Distinct Subarrays Divisible by K in Sorted Array](https://leetcode.com/problems/count-distinct-subarrays-divisible-by-k-in-sorted-array/) | Hard | [cpp](./solutions/3501-4000/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array.cpp) |
+| 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | Easy | [cpp](./solutions/3501-4000/3731-find-missing-elements.cpp) |
+| 3732 | [Maximum Product of Three Elements After One Replacement](https://leetcode.com/problems/maximum-product-of-three-elements-after-one-replacement/) | Medium | [cpp](./solutions/3501-4000/3732-maximum-product-of-three-elements-after-one-replacement.cpp) |
 | 3745 | [Maximize Expression of Three Elements](https://leetcode.com/problems/maximize-expression-of-three-elements/) | Easy | [cpp](./solutions/3501-4000/3745-maximize-expression-of-three-elements.cpp) |
 | 3746 | [Minimum String Length After Balanced Removals](https://leetcode.com/problems/minimum-string-length-after-balanced-removals/) | Medium | [cpp](./solutions/3501-4000/3746-minimum-string-length-after-balanced-removals.cpp) |
 | 3747 | [Count Distinct Integers After Removing Zeros](https://leetcode.com/problems/count-distinct-integers-after-removing-zeros/) | Medium | [cpp](./solutions/3501-4000/3747-count-distinct-integers-after-removing-zeros.cpp) |
@@ -1628,7 +1638,16 @@ My solutions for LeetCode problems.
 | 3823 | [Reverse Letters Then Special Characters in a String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string/) | Easy | [cpp](./solutions/3501-4000/3823-reverse-letters-then-special-characters-in-a-string.cpp) |
 | 3824 | [Minimum K to Reduce Array Within Limit](https://leetcode.com/problems/minimum-k-to-reduce-array-within-limit/) | Medium | [cpp](./solutions/3501-4000/3824-minimum-k-to-reduce-array-within-limit.cpp) |
 | 3825 | [Longest Strictly Increasing Subsequence With Non-Zero Bitwise AND](https://leetcode.com/problems/longest-strictly-increasing-subsequence-with-non-zero-bitwise-and/) | Medium | [cpp](./solutions/3501-4000/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and.cpp) |
+| 3826 | [Minimum Partition Score](https://leetcode.com/problems/minimum-partition-score/) | Hard | [cpp](./solutions/3501-4000/3826-minimum-partition-score.cpp) |
+| 3827 | [Count Monobit Integers](https://leetcode.com/problems/count-monobit-integers/) | Easy | [cpp](./solutions/3501-4000/3827-count-monobit-integers.cpp) |
+| 3828 | [Final Element After Subarray Deletions](https://leetcode.com/problems/final-element-after-subarray-deletions/) | Medium | [cpp](./solutions/3501-4000/3828-final-element-after-subarray-deletions.cpp) |
+| 3829 | [Design Ride Sharing System](https://leetcode.com/problems/design-ride-sharing-system/) | Medium | [cpp](./solutions/3501-4000/3829-design-ride-sharing-system.cpp) |
+| 3830 | [Longest Alternating Subarray After Removing At Most One Element](https://leetcode.com/problems/longest-alternating-subarray-after-removing-at-most-one-element/) | Hard | [cpp](./solutions/3501-4000/3830-longest-alternating-subarray-after-removing-at-most-one-element.cpp) |
 | 3835 | [Count Subarrays With Cost Less Than or Equal to K](https://leetcode.com/problems/count-subarrays-with-cost-less-than-or-equal-to-k/) | Medium | [python3](./solutions/3501-4000/3835-count-subarrays-with-cost-less-than-or-equal-to-k.py) |
+| 3842 | [Toggle Light Bulbs](https://leetcode.com/problems/toggle-light-bulbs/) | Easy | [cpp](./solutions/3501-4000/3842-toggle-light-bulbs.cpp) |
+| 3843 | [First Element with Unique Frequency](https://leetcode.com/problems/first-element-with-unique-frequency/) | Medium | [cpp](./solutions/3501-4000/3843-first-element-with-unique-frequency.cpp) |
+| 3844 | [Longest Almost-Palindromic Substring](https://leetcode.com/problems/longest-almost-palindromic-substring/) | Medium | [cpp](./solutions/3501-4000/3844-longest-almost-palindromic-substring.cpp) |
+| 3845 | [Maximum Subarray XOR with Bounded Range](https://leetcode.com/problems/maximum-subarray-xor-with-bounded-range/) | Hard | [cpp](./solutions/3501-4000/3845-maximum-subarray-xor-with-bounded-range.cpp) |
 | 3852 | [Smallest Pair With Different Frequencies](https://leetcode.com/problems/smallest-pair-with-different-frequencies/) | Easy | [cpp](./solutions/3501-4000/3852-smallest-pair-with-different-frequencies.cpp) |
 | 3853 | [Merge Close Characters](https://leetcode.com/problems/merge-close-characters/) | Medium | [cpp](./solutions/3501-4000/3853-merge-close-characters.cpp) |
 | 3854 | [Minimum Operations to Make Array Parity Alternating](https://leetcode.com/problems/minimum-operations-to-make-array-parity-alternating/) | Medium | [cpp](./solutions/3501-4000/3854-minimum-operations-to-make-array-parity-alternating.cpp) |
@@ -1636,3 +1655,11 @@ My solutions for LeetCode problems.
 | 3857 | [Minimum Cost to Split into Ones](https://leetcode.com/problems/minimum-cost-to-split-into-ones/) | Medium | [cpp](./solutions/3501-4000/3857-minimum-cost-to-split-into-ones.cpp) |
 | 3858 | [Minimum Bitwise OR From Grid](https://leetcode.com/problems/minimum-bitwise-or-from-grid/) | Medium | [cpp](./solutions/3501-4000/3858-minimum-bitwise-or-from-grid.cpp) |
 | 3859 | [Count Subarrays With K Distinct Integers](https://leetcode.com/problems/count-subarrays-with-k-distinct-integers/) | Hard | [cpp](./solutions/3501-4000/3859-count-subarrays-with-k-distinct-integers.cpp) |
+| 3866 | [First Unique Even Element](https://leetcode.com/problems/first-unique-even-element/) | Easy | [cpp](./solutions/3501-4000/3866-first-unique-even-element.cpp) |
+| 3867 | [Sum of GCD of Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) | Medium | [cpp](./solutions/3501-4000/3867-sum-of-gcd-of-formed-pairs.cpp) |
+| 3868 | [Minimum Cost to Equalize Arrays Using Swaps](https://leetcode.com/problems/minimum-cost-to-equalize-arrays-using-swaps/) | Medium | [cpp](./solutions/3501-4000/3868-minimum-cost-to-equalize-arrays-using-swaps.cpp) |
+| 3869 | [Count Fancy Numbers in a Range](https://leetcode.com/problems/count-fancy-numbers-in-a-range/) | Hard | [cpp](./solutions/3501-4000/3869-count-fancy-numbers-in-a-range.cpp) |
+| 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Easy | [cpp](./solutions/3501-4000/3875-construct-uniform-parity-array-i.cpp) |
+| 3876 | [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | Medium | [cpp](./solutions/3501-4000/3876-construct-uniform-parity-array-ii.cpp) |
+| 3877 | [Minimum Removals to Achieve Target XOR](https://leetcode.com/problems/minimum-removals-to-achieve-target-xor/) | Medium | [cpp](./solutions/3501-4000/3877-minimum-removals-to-achieve-target-xor.cpp) |
+| 3878 | [Count Good Subarrays](https://leetcode.com/problems/count-good-subarrays/) | Hard | [cpp](./solutions/3501-4000/3878-count-good-subarrays.cpp) |
