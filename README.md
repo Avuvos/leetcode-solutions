@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-![Total](https://img.shields.io/badge/Total-1651-blue) ![Easy](https://img.shields.io/badge/Easy-510-success) ![Medium](https://img.shields.io/badge/Medium-886-orange) ![Hard](https://img.shields.io/badge/Hard-255-red)
+![Total](https://img.shields.io/badge/Total-1659-blue) ![Easy](https://img.shields.io/badge/Easy-512-success) ![Medium](https://img.shields.io/badge/Medium-889-orange) ![Hard](https://img.shields.io/badge/Hard-258-red)
 
 My solutions for LeetCode problems.
 
 - **LeetCode Profile:** [Avuvos](https://leetcode.com/Avuvos/)
-- **Total Solved:** 1651
+- **Total Solved:** 1659
 - **Global Rank:** Top 0.31%
 
 ## Solutions
@@ -1663,3 +1663,11 @@ My solutions for LeetCode problems.
 | 3876 | [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | Medium | [cpp](./solutions/3501-4000/3876-construct-uniform-parity-array-ii.cpp) |
 | 3877 | [Minimum Removals to Achieve Target XOR](https://leetcode.com/problems/minimum-removals-to-achieve-target-xor/) | Medium | [cpp](./solutions/3501-4000/3877-minimum-removals-to-achieve-target-xor.cpp) |
 | 3878 | [Count Good Subarrays](https://leetcode.com/problems/count-good-subarrays/) | Hard | [cpp](./solutions/3501-4000/3878-count-good-subarrays.cpp) |
+| 3880 | [Minimum Absolute Difference Between Two Values](https://leetcode.com/problems/minimum-absolute-difference-between-two-values/) | Easy | [cpp](./solutions/3501-4000/3880-minimum-absolute-difference-between-two-values.cpp) |
+| 3881 | [Direction Assignments with Exactly K Visible People](https://leetcode.com/problems/direction-assignments-with-exactly-k-visible-people/) | Medium | [cpp](./solutions/3501-4000/3881-direction-assignments-with-exactly-k-visible-people.cpp) |
+| 3882 | [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | Medium | [cpp](./solutions/3501-4000/3882-minimum-xor-path-in-a-grid.cpp) |
+| 3883 | [Count Non Decreasing Arrays With Given Digit Sums](https://leetcode.com/problems/count-non-decreasing-arrays-with-given-digit-sums/) | Hard | [cpp](./solutions/3501-4000/3883-count-non-decreasing-arrays-with-given-digit-sums.cpp) |
+| 3884 | [First Matching Character From Both Ends](https://leetcode.com/problems/first-matching-character-from-both-ends/) | Easy | [cpp](./solutions/3501-4000/3884-first-matching-character-from-both-ends.cpp) |
+| 3885 | [Design Event Manager](https://leetcode.com/problems/design-event-manager/) | Medium | [cpp](./solutions/3501-4000/3885-design-event-manager.cpp) |
+| 3886 | [Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/) | Hard | [cpp](./solutions/3501-4000/3886-sum-of-sortable-integers.cpp) |
+| 3887 | [Incremental Even-Weighted Cycle Queries](https://leetcode.com/problems/incremental-even-weighted-cycle-queries/) | Hard | [cpp](./solutions/3501-4000/3887-incremental-even-weighted-cycle-queries.cpp) |
