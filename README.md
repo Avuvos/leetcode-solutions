@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-![Total](https://img.shields.io/badge/Total-1659-blue) ![Easy](https://img.shields.io/badge/Easy-512-success) ![Medium](https://img.shields.io/badge/Medium-889-orange) ![Hard](https://img.shields.io/badge/Hard-258-red)
+![Total](https://img.shields.io/badge/Total-1663-blue) ![Easy](https://img.shields.io/badge/Easy-513-success) ![Medium](https://img.shields.io/badge/Medium-891-orange) ![Hard](https://img.shields.io/badge/Hard-259-red)
 
 My solutions for LeetCode problems.
 
 - **LeetCode Profile:** [Avuvos](https://leetcode.com/Avuvos/)
-- **Total Solved:** 1659
+- **Total Solved:** 1663
 - **Global Rank:** Top 0.31%
 
 ## Solutions
@@ -1655,6 +1655,10 @@ My solutions for LeetCode problems.
 | 3857 | [Minimum Cost to Split into Ones](https://leetcode.com/problems/minimum-cost-to-split-into-ones/) | Medium | [cpp](./solutions/3501-4000/3857-minimum-cost-to-split-into-ones.cpp) |
 | 3858 | [Minimum Bitwise OR From Grid](https://leetcode.com/problems/minimum-bitwise-or-from-grid/) | Medium | [cpp](./solutions/3501-4000/3858-minimum-bitwise-or-from-grid.cpp) |
 | 3859 | [Count Subarrays With K Distinct Integers](https://leetcode.com/problems/count-subarrays-with-k-distinct-integers/) | Hard | [cpp](./solutions/3501-4000/3859-count-subarrays-with-k-distinct-integers.cpp) |
+| 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box/) | Easy | [cpp](./solutions/3501-4000/3861-minimum-capacity-box.cpp) |
+| 3862 | [Find the Smallest Balanced Index](https://leetcode.com/problems/find-the-smallest-balanced-index/) | Medium | [cpp](./solutions/3501-4000/3862-find-the-smallest-balanced-index.cpp) |
+| 3863 | [Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | Medium | [cpp](./solutions/3501-4000/3863-minimum-operations-to-sort-a-string.cpp) |
+| 3864 | [Minimum Cost to Partition a Binary String](https://leetcode.com/problems/minimum-cost-to-partition-a-binary-string/) | Hard | [cpp](./solutions/3501-4000/3864-minimum-cost-to-partition-a-binary-string.cpp) |
 | 3866 | [First Unique Even Element](https://leetcode.com/problems/first-unique-even-element/) | Easy | [cpp](./solutions/3501-4000/3866-first-unique-even-element.cpp) |
 | 3867 | [Sum of GCD of Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) | Medium | [cpp](./solutions/3501-4000/3867-sum-of-gcd-of-formed-pairs.cpp) |
 | 3868 | [Minimum Cost to Equalize Arrays Using Swaps](https://leetcode.com/problems/minimum-cost-to-equalize-arrays-using-swaps/) | Medium | [cpp](./solutions/3501-4000/3868-minimum-cost-to-equalize-arrays-using-swaps.cpp) |
