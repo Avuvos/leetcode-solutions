@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-![Total](https://img.shields.io/badge/Total-1663-blue) ![Easy](https://img.shields.io/badge/Easy-513-success) ![Medium](https://img.shields.io/badge/Medium-891-orange) ![Hard](https://img.shields.io/badge/Hard-259-red)
+![Total](https://img.shields.io/badge/Total-1674-blue) ![Easy](https://img.shields.io/badge/Easy-516-success) ![Medium](https://img.shields.io/badge/Medium-898-orange) ![Hard](https://img.shields.io/badge/Hard-260-red)
 
 My solutions for LeetCode problems.
 
 - **LeetCode Profile:** [Avuvos](https://leetcode.com/Avuvos/)
-- **Total Solved:** 1663
+- **Total Solved:** 1674
 - **Global Rank:** Top 0.31%
 
 ## Solutions
@@ -1675,3 +1675,14 @@ My solutions for LeetCode problems.
 | 3885 | [Design Event Manager](https://leetcode.com/problems/design-event-manager/) | Medium | [cpp](./solutions/3501-4000/3885-design-event-manager.cpp) |
 | 3886 | [Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/) | Hard | [cpp](./solutions/3501-4000/3886-sum-of-sortable-integers.cpp) |
 | 3887 | [Incremental Even-Weighted Cycle Queries](https://leetcode.com/problems/incremental-even-weighted-cycle-queries/) | Hard | [cpp](./solutions/3501-4000/3887-incremental-even-weighted-cycle-queries.cpp) |
+| 3889 | [Mirror Frequency Distance](https://leetcode.com/problems/mirror-frequency-distance/) | Medium | [cpp](./solutions/3501-4000/3889-mirror-frequency-distance.cpp) |
+| 3890 | [Integers With Multiple Sum of Two Cubes](https://leetcode.com/problems/integers-with-multiple-sum-of-two-cubes/) | Medium | [cpp](./solutions/3501-4000/3890-integers-with-multiple-sum-of-two-cubes.cpp) |
+| 3894 | [Traffic Signal Color](https://leetcode.com/problems/traffic-signal-color/) | Easy | [cpp](./solutions/3501-4000/3894-traffic-signal-color.cpp) |
+| 3895 | [Count Digit Appearances](https://leetcode.com/problems/count-digit-appearances/) | Medium | [cpp](./solutions/3501-4000/3895-count-digit-appearances.cpp) |
+| 3896 | [Minimum Operations to Transform Array into Alternating Prime](https://leetcode.com/problems/minimum-operations-to-transform-array-into-alternating-prime/) | Medium | [cpp](./solutions/3501-4000/3896-minimum-operations-to-transform-array-into-alternating-prime.cpp) |
+| 3897 | [Maximum Value of Concatenated Binary Segments](https://leetcode.com/problems/maximum-value-of-concatenated-binary-segments/) | Hard | [cpp](./solutions/3501-4000/3897-maximum-value-of-concatenated-binary-segments.cpp) |
+| 3898 | [Find the Degree of Each Vertex](https://leetcode.com/problems/find-the-degree-of-each-vertex/) | Easy | [cpp](./solutions/3501-4000/3898-find-the-degree-of-each-vertex.cpp) |
+| 3899 | [Angles of a Triangle](https://leetcode.com/problems/angles-of-a-triangle/) | Medium | [cpp](./solutions/3501-4000/3899-angles-of-a-triangle.cpp) |
+| 3903 | [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/) | Easy | [cpp](./solutions/3501-4000/3903-smallest-stable-index-i.cpp) |
+| 3904 | [Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/) | Medium | [cpp](./solutions/3501-4000/3904-smallest-stable-index-ii.cpp) |
+| 3905 | [Multi Source Flood Fill](https://leetcode.com/problems/multi-source-flood-fill/) | Medium | [cpp](./solutions/3501-4000/3905-multi-source-flood-fill.cpp) |
