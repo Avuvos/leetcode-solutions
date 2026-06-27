@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-![Total](https://img.shields.io/badge/Total-1678-blue) ![Easy](https://img.shields.io/badge/Easy-516-success) ![Medium](https://img.shields.io/badge/Medium-901-orange) ![Hard](https://img.shields.io/badge/Hard-261-red)
+![Total](https://img.shields.io/badge/Total-1694-blue) ![Easy](https://img.shields.io/badge/Easy-522-success) ![Medium](https://img.shields.io/badge/Medium-910-orange) ![Hard](https://img.shields.io/badge/Hard-262-red)
 
 My solutions for LeetCode problems.
 
 - **LeetCode Profile:** [Avuvos](https://leetcode.com/Avuvos/)
-- **Total Solved:** 1678
+- **Total Solved:** 1694
 - **Global Rank:** Top 0.31%
 
 ## Solutions
@@ -1690,3 +1690,19 @@ My solutions for LeetCode problems.
 | 3903 | [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/) | Easy | [cpp](./solutions/3501-4000/3903-smallest-stable-index-i.cpp) |
 | 3904 | [Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/) | Medium | [cpp](./solutions/3501-4000/3904-smallest-stable-index-ii.cpp) |
 | 3905 | [Multi Source Flood Fill](https://leetcode.com/problems/multi-source-flood-fill/) | Medium | [cpp](./solutions/3501-4000/3905-multi-source-flood-fill.cpp) |
+| 3917 | [Count Indices With Opposite Parity](https://leetcode.com/problems/count-indices-with-opposite-parity/) | Easy | [cpp](./solutions/3501-4000/3917-count-indices-with-opposite-parity.cpp) |
+| 3918 | [Sum of Primes Between Number and Its Reverse](https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse/) | Medium | [cpp](./solutions/3501-4000/3918-sum-of-primes-between-number-and-its-reverse.cpp) |
+| 3919 | [Minimum Cost to Move Between Indices](https://leetcode.com/problems/minimum-cost-to-move-between-indices/) | Medium | [cpp](./solutions/3501-4000/3919-minimum-cost-to-move-between-indices.cpp) |
+| 3921 | [Score Validator](https://leetcode.com/problems/score-validator/) | Easy | [cpp](./solutions/3501-4000/3921-score-validator.cpp) |
+| 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse/) | Easy | [cpp](./solutions/3501-4000/3925-concatenate-array-with-reverse.cpp) |
+| 3926 | [Count Valid Word Occurrences](https://leetcode.com/problems/count-valid-word-occurrences/) | Medium | [cpp](./solutions/3501-4000/3926-count-valid-word-occurrences.cpp) |
+| 3927 | [Minimize Array Sum Using Divisible Replacements](https://leetcode.com/problems/minimize-array-sum-using-divisible-replacements/) | Medium | [cpp](./solutions/3501-4000/3927-minimize-array-sum-using-divisible-replacements.cpp) |
+| 3931 | [Check Adjacent Digit Differences](https://leetcode.com/problems/check-adjacent-digit-differences/) | Easy | [cpp](./solutions/3501-4000/3931-check-adjacent-digit-differences.cpp) |
+| 3932 | [Count K-th Roots in a Range](https://leetcode.com/problems/count-k-th-roots-in-a-range/) | Medium | [cpp](./solutions/3501-4000/3932-count-k-th-roots-in-a-range.cpp) |
+| 3934 | [Smallest Unique Subarray](https://leetcode.com/problems/smallest-unique-subarray/) | Hard | [cpp](./solutions/3501-4000/3934-smallest-unique-subarray.cpp) |
+| 3940 | [Limit Occurrences in Sorted Array](https://leetcode.com/problems/limit-occurrences-in-sorted-array/) | Easy | [cpp](./solutions/3501-4000/3940-limit-occurrences-in-sorted-array.cpp) |
+| 3941 | [Password Strength](https://leetcode.com/problems/password-strength/) | Medium | [cpp](./solutions/3501-4000/3941-password-strength.cpp) |
+| 3942 | [Minimum Operations to Sort a Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | Medium | [cpp](./solutions/3501-4000/3942-minimum-operations-to-sort-a-permutation.cpp) |
+| 3950 | [Exactly One Consecutive Set Bits Pair](https://leetcode.com/problems/exactly-one-consecutive-set-bits-pair/) | Easy | [cpp](./solutions/3501-4000/3950-exactly-one-consecutive-set-bits-pair.cpp) |
+| 3951 | [Minimum Energy to Maintain Brightness](https://leetcode.com/problems/minimum-energy-to-maintain-brightness/) | Medium | [cpp](./solutions/3501-4000/3951-minimum-energy-to-maintain-brightness.cpp) |
+| 3952 | [Maximum Total Value of Covered Indices](https://leetcode.com/problems/maximum-total-value-of-covered-indices/) | Medium | [cpp](./solutions/3501-4000/3952-maximum-total-value-of-covered-indices.cpp) |
