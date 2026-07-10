@@ -1,0 +1,15 @@
+-- Write your PostgreSQL query statement below
+WITH tc AS (
+    SELECT p_id, count(*) AS cnt
+    FROM Tree
+    GROUP BY p_id
+)
+
+SELECT
+    id,
+    CASE 
+        WHEN t.p_id IS NULL THEN 'Root'
+        WHEN tc.cnt > 0 THEN 'Inner'
+        ELSE 'Leaf'
+        END AS type
+    FROM Tree t LEFT JOIN tc ON t.id = tc.p_id
