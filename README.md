@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-![Total](https://img.shields.io/badge/Total-1694-blue) ![Easy](https://img.shields.io/badge/Easy-522-success) ![Medium](https://img.shields.io/badge/Medium-910-orange) ![Hard](https://img.shields.io/badge/Hard-262-red)
+![Total](https://img.shields.io/badge/Total-1698-blue) ![Easy](https://img.shields.io/badge/Easy-523-success) ![Medium](https://img.shields.io/badge/Medium-912-orange) ![Hard](https://img.shields.io/badge/Hard-263-red)
 
 My solutions for LeetCode problems.
 
 - **LeetCode Profile:** [Avuvos](https://leetcode.com/Avuvos/)
-- **Total Solved:** 1694
+- **Total Solved:** 1698
 - **Global Rank:** Top 0.31%
 
 ## Solutions
@@ -1700,6 +1700,10 @@ My solutions for LeetCode problems.
 | 3931 | [Check Adjacent Digit Differences](https://leetcode.com/problems/check-adjacent-digit-differences/) | Easy | [cpp](./solutions/3501-4000/3931-check-adjacent-digit-differences.cpp) |
 | 3932 | [Count K-th Roots in a Range](https://leetcode.com/problems/count-k-th-roots-in-a-range/) | Medium | [cpp](./solutions/3501-4000/3932-count-k-th-roots-in-a-range.cpp) |
 | 3934 | [Smallest Unique Subarray](https://leetcode.com/problems/smallest-unique-subarray/) | Hard | [cpp](./solutions/3501-4000/3934-smallest-unique-subarray.cpp) |
+| 3936 | [Minimum Swaps to Move Zeros to End](https://leetcode.com/problems/minimum-swaps-to-move-zeros-to-end/) | Easy | [cpp](./solutions/3501-4000/3936-minimum-swaps-to-move-zeros-to-end.cpp) |
+| 3937 | [Minimum Operations to Make Array Modulo Alternating I](https://leetcode.com/problems/minimum-operations-to-make-array-modulo-alternating-i/) | Medium | [cpp](./solutions/3501-4000/3937-minimum-operations-to-make-array-modulo-alternating-i.cpp) |
+| 3938 | [Maximum Path Intersection Sum in a Grid](https://leetcode.com/problems/maximum-path-intersection-sum-in-a-grid/) | Medium | [cpp](./solutions/3501-4000/3938-maximum-path-intersection-sum-in-a-grid.cpp) |
+| 3939 | [Count Non Adjacent Subsets in a Rooted Tree](https://leetcode.com/problems/count-non-adjacent-subsets-in-a-rooted-tree/) | Hard | [cpp](./solutions/3501-4000/3939-count-non-adjacent-subsets-in-a-rooted-tree.cpp) |
 | 3940 | [Limit Occurrences in Sorted Array](https://leetcode.com/problems/limit-occurrences-in-sorted-array/) | Easy | [cpp](./solutions/3501-4000/3940-limit-occurrences-in-sorted-array.cpp) |
 | 3941 | [Password Strength](https://leetcode.com/problems/password-strength/) | Medium | [cpp](./solutions/3501-4000/3941-password-strength.cpp) |
 | 3942 | [Minimum Operations to Sort a Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | Medium | [cpp](./solutions/3501-4000/3942-minimum-operations-to-sort-a-permutation.cpp) |
