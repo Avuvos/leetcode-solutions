@@ -1,0 +1,10 @@
+-- Write your PostgreSQL query statement below
+WITH red_orders AS (
+    SELECT * 
+    FROM Orders o LEFT JOIN Company c ON c.com_id = o.com_id
+    WHERE name = 'RED'
+)
+
+SELECT s.name
+FROM SalesPerson s LEFT JOIN red_orders ON s.sales_id = red_orders.sales_id  
+WHERE red_orders.sales_id IS NULL
