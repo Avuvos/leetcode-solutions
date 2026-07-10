@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-![Total](https://img.shields.io/badge/Total-1698-blue) ![Easy](https://img.shields.io/badge/Easy-523-success) ![Medium](https://img.shields.io/badge/Medium-912-orange) ![Hard](https://img.shields.io/badge/Hard-263-red)
+![Total](https://img.shields.io/badge/Total-1701-blue) ![Easy](https://img.shields.io/badge/Easy-525-success) ![Medium](https://img.shields.io/badge/Medium-913-orange) ![Hard](https://img.shields.io/badge/Hard-263-red)
 
 My solutions for LeetCode problems.
 
 - **LeetCode Profile:** [Avuvos](https://leetcode.com/Avuvos/)
-- **Total Solved:** 1698
+- **Total Solved:** 1701
 - **Global Rank:** Top 0.31%
 
 ## Solutions
@@ -315,7 +315,10 @@ My solutions for LeetCode problems.
 | 0596 | [Classes With at Least 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students/) | Easy | [postgresql](./solutions/0501-1000/0596-classes-with-at-least-5-students.txt) |
 | 0598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/) | Easy | [java](./solutions/0501-1000/0598-range-addition-ii.java) |
 | 0606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | Medium | [cpp](./solutions/0501-1000/0606-construct-string-from-binary-tree.cpp) |
+| 0607 | [Sales Person](https://leetcode.com/problems/sales-person/) | Easy | [postgresql](./solutions/0501-1000/0607-sales-person.txt) |
+| 0608 | [Tree Node](https://leetcode.com/problems/tree-node/) | Medium | [postgresql](./solutions/0501-1000/0608-tree-node.txt) |
 | 0609 | [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/) | Medium | [cpp](./solutions/0501-1000/0609-find-duplicate-file-in-system.cpp) |
+| 0610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | Easy | [postgresql](./solutions/0501-1000/0610-triangle-judgement.txt) |
 | 0617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | Easy | [python3](./solutions/0501-1000/0617-merge-two-binary-trees.py) |
 | 0620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | Easy | [postgresql](./solutions/0501-1000/0620-not-boring-movies.txt) |
 | 0622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | Medium | [cpp](./solutions/0501-1000/0622-design-circular-queue.cpp) |
