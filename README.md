@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-![Total](https://img.shields.io/badge/Total-1701-blue) ![Easy](https://img.shields.io/badge/Easy-525-success) ![Medium](https://img.shields.io/badge/Medium-913-orange) ![Hard](https://img.shields.io/badge/Hard-263-red)
+![Total](https://img.shields.io/badge/Total-1715-blue) ![Easy](https://img.shields.io/badge/Easy-529-success) ![Medium](https://img.shields.io/badge/Medium-921-orange) ![Hard](https://img.shields.io/badge/Hard-265-red)
 
 My solutions for LeetCode problems.
 
 - **LeetCode Profile:** [Avuvos](https://leetcode.com/Avuvos/)
-- **Total Solved:** 1701
+- **Total Solved:** 1715
 - **Global Rank:** Top 0.31%
 
 ## Solutions
@@ -1693,6 +1693,9 @@ My solutions for LeetCode problems.
 | 3903 | [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/) | Easy | [cpp](./solutions/3501-4000/3903-smallest-stable-index-i.cpp) |
 | 3904 | [Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/) | Medium | [cpp](./solutions/3501-4000/3904-smallest-stable-index-ii.cpp) |
 | 3905 | [Multi Source Flood Fill](https://leetcode.com/problems/multi-source-flood-fill/) | Medium | [cpp](./solutions/3501-4000/3905-multi-source-flood-fill.cpp) |
+| 3908 | [Valid Digit Number](https://leetcode.com/problems/valid-digit-number/) | Easy | [cpp](./solutions/3501-4000/3908-valid-digit-number.cpp) |
+| 3909 | [Compare Sums of Bitonic Parts](https://leetcode.com/problems/compare-sums-of-bitonic-parts/) | Medium | [cpp](./solutions/3501-4000/3909-compare-sums-of-bitonic-parts.cpp) |
+| 3910 | [Count Connected Subgraphs with Even Node Sum](https://leetcode.com/problems/count-connected-subgraphs-with-even-node-sum/) | Hard | [cpp](./solutions/3501-4000/3910-count-connected-subgraphs-with-even-node-sum.cpp) |
 | 3917 | [Count Indices With Opposite Parity](https://leetcode.com/problems/count-indices-with-opposite-parity/) | Easy | [cpp](./solutions/3501-4000/3917-count-indices-with-opposite-parity.cpp) |
 | 3918 | [Sum of Primes Between Number and Its Reverse](https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse/) | Medium | [cpp](./solutions/3501-4000/3918-sum-of-primes-between-number-and-its-reverse.cpp) |
 | 3919 | [Minimum Cost to Move Between Indices](https://leetcode.com/problems/minimum-cost-to-move-between-indices/) | Medium | [cpp](./solutions/3501-4000/3919-minimum-cost-to-move-between-indices.cpp) |
@@ -1710,6 +1713,17 @@ My solutions for LeetCode problems.
 | 3940 | [Limit Occurrences in Sorted Array](https://leetcode.com/problems/limit-occurrences-in-sorted-array/) | Easy | [cpp](./solutions/3501-4000/3940-limit-occurrences-in-sorted-array.cpp) |
 | 3941 | [Password Strength](https://leetcode.com/problems/password-strength/) | Medium | [cpp](./solutions/3501-4000/3941-password-strength.cpp) |
 | 3942 | [Minimum Operations to Sort a Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | Medium | [cpp](./solutions/3501-4000/3942-minimum-operations-to-sort-a-permutation.cpp) |
+| 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score/) | Easy | [cpp](./solutions/3501-4000/3945-digit-frequency-score.cpp) |
+| 3946 | [Maximum Number of Items From Sale I](https://leetcode.com/problems/maximum-number-of-items-from-sale-i/) | Medium | [cpp](./solutions/3501-4000/3946-maximum-number-of-items-from-sale-i.cpp) |
+| 3947 | [Maximum Number of Items From Sale II](https://leetcode.com/problems/maximum-number-of-items-from-sale-ii/) | Medium | [cpp](./solutions/3501-4000/3947-maximum-number-of-items-from-sale-ii.cpp) |
 | 3950 | [Exactly One Consecutive Set Bits Pair](https://leetcode.com/problems/exactly-one-consecutive-set-bits-pair/) | Easy | [cpp](./solutions/3501-4000/3950-exactly-one-consecutive-set-bits-pair.cpp) |
 | 3951 | [Minimum Energy to Maintain Brightness](https://leetcode.com/problems/minimum-energy-to-maintain-brightness/) | Medium | [cpp](./solutions/3501-4000/3951-minimum-energy-to-maintain-brightness.cpp) |
 | 3952 | [Maximum Total Value of Covered Indices](https://leetcode.com/problems/maximum-total-value-of-covered-indices/) | Medium | [cpp](./solutions/3501-4000/3952-maximum-total-value-of-covered-indices.cpp) |
+| 3974 | [Maximum Total Sum of K Selected Elements](https://leetcode.com/problems/maximum-total-sum-of-k-selected-elements/) | Medium | [cpp](./solutions/3501-4000/3974-maximum-total-sum-of-k-selected-elements.cpp) |
+| 3975 | [Filter Occupied Intervals](https://leetcode.com/problems/filter-occupied-intervals/) | Medium | [cpp](./solutions/3501-4000/3975-filter-occupied-intervals.cpp) |
+| 3978 | [Unique Middle Element](https://leetcode.com/problems/unique-middle-element/) | Easy | [cpp](./solutions/3501-4000/3978-unique-middle-element.cpp) |
+| 3979 | [Maximum Valid Pair Sum](https://leetcode.com/problems/maximum-valid-pair-sum/) | Medium | [cpp](./solutions/3501-4000/3979-maximum-valid-pair-sum.cpp) |
+| 3980 | [Minimum Operations to Transform Binary String](https://leetcode.com/problems/minimum-operations-to-transform-binary-string/) | Medium | [cpp](./solutions/3501-4000/3980-minimum-operations-to-transform-binary-string.cpp) |
+| 3981 | [Count Distinct Ways to Form Target from Two Strings](https://leetcode.com/problems/count-distinct-ways-to-form-target-from-two-strings/) | Hard | [cpp](./solutions/3501-4000/3981-count-distinct-ways-to-form-target-from-two-strings.cpp) |
+| 3982 | [Sum of Integers with Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range/) | Easy | [cpp](./solutions/3501-4000/3982-sum-of-integers-with-maximum-digit-range.cpp) |
+| 3987 | [Minimum Total Cost to Process All Elements](https://leetcode.com/problems/minimum-total-cost-to-process-all-elements/) | Medium | [cpp](./solutions/3501-4000/3987-minimum-total-cost-to-process-all-elements.cpp) |
