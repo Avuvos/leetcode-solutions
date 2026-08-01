@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-![Total](https://img.shields.io/badge/Total-1715-blue) ![Easy](https://img.shields.io/badge/Easy-529-success) ![Medium](https://img.shields.io/badge/Medium-921-orange) ![Hard](https://img.shields.io/badge/Hard-265-red)
+![Total](https://img.shields.io/badge/Total-1719-blue) ![Easy](https://img.shields.io/badge/Easy-530-success) ![Medium](https://img.shields.io/badge/Medium-923-orange) ![Hard](https://img.shields.io/badge/Hard-266-red)
 
 My solutions for LeetCode problems.
 
 - **LeetCode Profile:** [Avuvos](https://leetcode.com/Avuvos/)
-- **Total Solved:** 1715
+- **Total Solved:** 1719
 - **Global Rank:** Top 0.31%
 
 ## Solutions
@@ -188,7 +188,7 @@ My solutions for LeetCode problems.
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | [python3](./solutions/0001-0500/0268-missing-number.py) |
 | 0278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | Easy | [python3](./solutions/0001-0500/0278-first-bad-version.py) |
 | 0279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | Medium | [python3](./solutions/0001-0500/0279-perfect-squares.py) |
-| 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | [python3](./solutions/0001-0500/0283-move-zeroes.py) |
+| 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | [cpp](./solutions/0001-0500/0283-move-zeroes.cpp) |
 | 0284 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | Medium | [java](./solutions/0001-0500/0284-peeking-iterator.java) |
 | 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | [cpp](./solutions/0001-0500/0287-find-the-duplicate-number.cpp) |
 | 0290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | Easy | [cpp](./solutions/0001-0500/0290-word-pattern.cpp) |
@@ -1727,3 +1727,7 @@ My solutions for LeetCode problems.
 | 3981 | [Count Distinct Ways to Form Target from Two Strings](https://leetcode.com/problems/count-distinct-ways-to-form-target-from-two-strings/) | Hard | [cpp](./solutions/3501-4000/3981-count-distinct-ways-to-form-target-from-two-strings.cpp) |
 | 3982 | [Sum of Integers with Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range/) | Easy | [cpp](./solutions/3501-4000/3982-sum-of-integers-with-maximum-digit-range.cpp) |
 | 3987 | [Minimum Total Cost to Process All Elements](https://leetcode.com/problems/minimum-total-cost-to-process-all-elements/) | Medium | [cpp](./solutions/3501-4000/3987-minimum-total-cost-to-process-all-elements.cpp) |
+| 4000 | [Largest Integer With Given Digit Sum](https://leetcode.com/problems/largest-integer-with-given-digit-sum/) | Easy | [cpp](./solutions/3501-4000/4000-largest-integer-with-given-digit-sum.cpp) |
+| 4001 | [Aggregate Two Time Series](https://leetcode.com/problems/aggregate-two-time-series/) | Medium | [cpp](./solutions/4001-4500/4001-aggregate-two-time-series.cpp) |
+| 4002 | [Count Valid Sequences](https://leetcode.com/problems/count-valid-sequences/) | Medium | [cpp](./solutions/4001-4500/4002-count-valid-sequences.cpp) |
+| 4003 | [Minimum Cost Path with Alternating Directions III](https://leetcode.com/problems/minimum-cost-path-with-alternating-directions-iii/) | Hard | [cpp](./solutions/4001-4500/4003-minimum-cost-path-with-alternating-directions-iii.cpp) |
