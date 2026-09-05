@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-![Total](https://img.shields.io/badge/Total-1719-blue) ![Easy](https://img.shields.io/badge/Easy-530-success) ![Medium](https://img.shields.io/badge/Medium-923-orange) ![Hard](https://img.shields.io/badge/Hard-266-red)
+![Total](https://img.shields.io/badge/Total-1728-blue) ![Easy](https://img.shields.io/badge/Easy-532-success) ![Medium](https://img.shields.io/badge/Medium-929-orange) ![Hard](https://img.shields.io/badge/Hard-267-red)
 
 My solutions for LeetCode problems.
 
 - **LeetCode Profile:** [Avuvos](https://leetcode.com/Avuvos/)
-- **Total Solved:** 1719
+- **Total Solved:** 1728
 - **Global Rank:** Top 0.31%
 
 ## Solutions
@@ -1731,3 +1731,12 @@ My solutions for LeetCode problems.
 | 4001 | [Aggregate Two Time Series](https://leetcode.com/problems/aggregate-two-time-series/) | Medium | [cpp](./solutions/4001-4500/4001-aggregate-two-time-series.cpp) |
 | 4002 | [Count Valid Sequences](https://leetcode.com/problems/count-valid-sequences/) | Medium | [cpp](./solutions/4001-4500/4002-count-valid-sequences.cpp) |
 | 4003 | [Minimum Cost Path with Alternating Directions III](https://leetcode.com/problems/minimum-cost-path-with-alternating-directions-iii/) | Hard | [cpp](./solutions/4001-4500/4003-minimum-cost-path-with-alternating-directions-iii.cpp) |
+| 4006 | [Count Valid Prefixes](https://leetcode.com/problems/count-valid-prefixes/) | Easy | [cpp](./solutions/4001-4500/4006-count-valid-prefixes.cpp) |
+| 4007 | [Widest Possible Fence](https://leetcode.com/problems/widest-possible-fence/) | Hard | [cpp](./solutions/4001-4500/4007-widest-possible-fence.cpp) |
+| 4008 | [Minimum Initial Strength to Defeat All Monsters](https://leetcode.com/problems/minimum-initial-strength-to-defeat-all-monsters/) | Medium | [cpp](./solutions/4001-4500/4008-minimum-initial-strength-to-defeat-all-monsters.cpp) |
+| 4010 | [Maximize Pair Strength Using GCD](https://leetcode.com/problems/maximize-pair-strength-using-gcd/) | Easy | [cpp](./solutions/4001-4500/4010-maximize-pair-strength-using-gcd.cpp) |
+| 4011 | [Count Subarrays With Even Odd Ratio I](https://leetcode.com/problems/count-subarrays-with-even-odd-ratio-i/) | Medium | [cpp](./solutions/4001-4500/4011-count-subarrays-with-even-odd-ratio-i.cpp) |
+| 4012 | [Count of Unfinished Tasks After Each Shift](https://leetcode.com/problems/count-of-unfinished-tasks-after-each-shift/) | Medium | [cpp](./solutions/4001-4500/4012-count-of-unfinished-tasks-after-each-shift.cpp) |
+| 4014 | [Minimum Total Price After Applying Discounts](https://leetcode.com/problems/minimum-total-price-after-applying-discounts/) | Medium | [cpp](./solutions/4001-4500/4014-minimum-total-price-after-applying-discounts.cpp) |
+| 4015 | [Weighted Sum of a Tree](https://leetcode.com/problems/weighted-sum-of-a-tree/) | Medium | [cpp](./solutions/4001-4500/4015-weighted-sum-of-a-tree.cpp) |
+| 4016 | [Maximum Area of Two Non-Overlapping Square Submatrices](https://leetcode.com/problems/maximum-area-of-two-non-overlapping-square-submatrices/) | Medium | [cpp](./solutions/4001-4500/4016-maximum-area-of-two-non-overlapping-square-submatrices.cpp) |
