@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-![Total](https://img.shields.io/badge/Total-1728-blue) ![Easy](https://img.shields.io/badge/Easy-532-success) ![Medium](https://img.shields.io/badge/Medium-929-orange) ![Hard](https://img.shields.io/badge/Hard-267-red)
+![Total](https://img.shields.io/badge/Total-1747-blue) ![Easy](https://img.shields.io/badge/Easy-539-success) ![Medium](https://img.shields.io/badge/Medium-939-orange) ![Hard](https://img.shields.io/badge/Hard-269-red)
 
 My solutions for LeetCode problems.
 
 - **LeetCode Profile:** [Avuvos](https://leetcode.com/Avuvos/)
-- **Total Solved:** 1728
+- **Total Solved:** 1747
 - **Global Rank:** Top 0.31%
 
 ## Solutions
@@ -1670,6 +1670,7 @@ My solutions for LeetCode problems.
 | 3867 | [Sum of GCD of Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) | Medium | [cpp](./solutions/3501-4000/3867-sum-of-gcd-of-formed-pairs.cpp) |
 | 3868 | [Minimum Cost to Equalize Arrays Using Swaps](https://leetcode.com/problems/minimum-cost-to-equalize-arrays-using-swaps/) | Medium | [cpp](./solutions/3501-4000/3868-minimum-cost-to-equalize-arrays-using-swaps.cpp) |
 | 3869 | [Count Fancy Numbers in a Range](https://leetcode.com/problems/count-fancy-numbers-in-a-range/) | Hard | [cpp](./solutions/3501-4000/3869-count-fancy-numbers-in-a-range.cpp) |
+| 3870 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | Easy | [cpp](./solutions/3501-4000/3870-count-commas-in-range.cpp) |
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Easy | [cpp](./solutions/3501-4000/3875-construct-uniform-parity-array-i.cpp) |
 | 3876 | [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | Medium | [cpp](./solutions/3501-4000/3876-construct-uniform-parity-array-ii.cpp) |
 | 3877 | [Minimum Removals to Achieve Target XOR](https://leetcode.com/problems/minimum-removals-to-achieve-target-xor/) | Medium | [cpp](./solutions/3501-4000/3877-minimum-removals-to-achieve-target-xor.cpp) |
@@ -1726,6 +1727,7 @@ My solutions for LeetCode problems.
 | 3980 | [Minimum Operations to Transform Binary String](https://leetcode.com/problems/minimum-operations-to-transform-binary-string/) | Medium | [cpp](./solutions/3501-4000/3980-minimum-operations-to-transform-binary-string.cpp) |
 | 3981 | [Count Distinct Ways to Form Target from Two Strings](https://leetcode.com/problems/count-distinct-ways-to-form-target-from-two-strings/) | Hard | [cpp](./solutions/3501-4000/3981-count-distinct-ways-to-form-target-from-two-strings.cpp) |
 | 3982 | [Sum of Integers with Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range/) | Easy | [cpp](./solutions/3501-4000/3982-sum-of-integers-with-maximum-digit-range.cpp) |
+| 3986 | [Number of Elapsed Seconds Between Two Times](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times/) | Easy | [cpp](./solutions/3501-4000/3986-number-of-elapsed-seconds-between-two-times.cpp) |
 | 3987 | [Minimum Total Cost to Process All Elements](https://leetcode.com/problems/minimum-total-cost-to-process-all-elements/) | Medium | [cpp](./solutions/3501-4000/3987-minimum-total-cost-to-process-all-elements.cpp) |
 | 4000 | [Largest Integer With Given Digit Sum](https://leetcode.com/problems/largest-integer-with-given-digit-sum/) | Easy | [cpp](./solutions/3501-4000/4000-largest-integer-with-given-digit-sum.cpp) |
 | 4001 | [Aggregate Two Time Series](https://leetcode.com/problems/aggregate-two-time-series/) | Medium | [cpp](./solutions/4001-4500/4001-aggregate-two-time-series.cpp) |
@@ -1740,3 +1742,20 @@ My solutions for LeetCode problems.
 | 4014 | [Minimum Total Price After Applying Discounts](https://leetcode.com/problems/minimum-total-price-after-applying-discounts/) | Medium | [cpp](./solutions/4001-4500/4014-minimum-total-price-after-applying-discounts.cpp) |
 | 4015 | [Weighted Sum of a Tree](https://leetcode.com/problems/weighted-sum-of-a-tree/) | Medium | [cpp](./solutions/4001-4500/4015-weighted-sum-of-a-tree.cpp) |
 | 4016 | [Maximum Area of Two Non-Overlapping Square Submatrices](https://leetcode.com/problems/maximum-area-of-two-non-overlapping-square-submatrices/) | Medium | [cpp](./solutions/4001-4500/4016-maximum-area-of-two-non-overlapping-square-submatrices.cpp) |
+| 4024 | [Nearest Available Drone](https://leetcode.com/problems/nearest-available-drone/) | Easy | [cpp](./solutions/4001-4500/4024-nearest-available-drone.cpp) |
+| 4025 | [Minimize the Maximum Waiting Time at Synchronized Traffic Lights](https://leetcode.com/problems/minimize-the-maximum-waiting-time-at-synchronized-traffic-lights/) | Medium | [cpp](./solutions/4001-4500/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights.cpp) |
+| 4026 | [Maximum Gap Between Stations](https://leetcode.com/problems/maximum-gap-between-stations/) | Medium | [cpp](./solutions/4001-4500/4026-maximum-gap-between-stations.cpp) |
+| 4030 | [Check ASCII Palindromic](https://leetcode.com/problems/check-ascii-palindromic/) | Easy | [cpp](./solutions/4001-4500/4030-check-ascii-palindromic.cpp) |
+| 4031 | [Find All Numbers Disappeared in an Array II](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array-ii/) | Medium | [cpp](./solutions/4001-4500/4031-find-all-numbers-disappeared-in-an-array-ii.cpp) |
+| 4032 | [Longest Subarray With at Most K Distinct Prime Factors](https://leetcode.com/problems/longest-subarray-with-at-most-k-distinct-prime-factors/) | Medium | [cpp](./solutions/4001-4500/4032-longest-subarray-with-at-most-k-distinct-prime-factors.cpp) |
+| 4038 | [Count Integers Appearing in a Single Block](https://leetcode.com/problems/count-integers-appearing-in-a-single-block/) | Easy | [cpp](./solutions/4001-4500/4038-count-integers-appearing-in-a-single-block.cpp) |
+| 4039 | [Sum of Decoded Numbers](https://leetcode.com/problems/sum-of-decoded-numbers/) | Medium | [cpp](./solutions/4001-4500/4039-sum-of-decoded-numbers.cpp) |
+| 4040 | [Minimum Operations to Form Subset Sum I](https://leetcode.com/problems/minimum-operations-to-form-subset-sum-i/) | Medium | [cpp](./solutions/4001-4500/4040-minimum-operations-to-form-subset-sum-i.cpp) |
+| 4041 | [Minimum Operations to Form Subset Sum II](https://leetcode.com/problems/minimum-operations-to-form-subset-sum-ii/) | Hard | [cpp](./solutions/4001-4500/4041-minimum-operations-to-form-subset-sum-ii.cpp) |
+| 4043 | [Count Rotations With Exactly K Equal Adjacent Pairs](https://leetcode.com/problems/count-rotations-with-exactly-k-equal-adjacent-pairs/) | Easy | [cpp](./solutions/4001-4500/4043-count-rotations-with-exactly-k-equal-adjacent-pairs.cpp) |
+| 4044 | [Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) | Medium | [cpp](./solutions/4001-4500/4044-count-good-cyclic-rotations.cpp) |
+| 4045 | [Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) | Medium | [cpp](./solutions/4001-4500/4045-count-robot-groups.cpp) |
+| 4046 | [Minimum Cost Path With At Most K Turns](https://leetcode.com/problems/minimum-cost-path-with-at-most-k-turns/) | Hard | [cpp](./solutions/4001-4500/4046-minimum-cost-path-with-at-most-k-turns.cpp) |
+| 4048 | [Count Values With Equally Spaced Occurrences I](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-i/) | Easy | [cpp](./solutions/4001-4500/4048-count-values-with-equally-spaced-occurrences-i.cpp) |
+| 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | Medium | [cpp](./solutions/4001-4500/4049-count-values-with-equally-spaced-occurrences-ii.cpp) |
+| 4050 | [Minimum Days to Score Exactly N Points](https://leetcode.com/problems/minimum-days-to-score-exactly-n-points/) | Medium | [cpp](./solutions/4001-4500/4050-minimum-days-to-score-exactly-n-points.cpp) |
