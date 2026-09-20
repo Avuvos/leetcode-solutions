@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-![Total](https://img.shields.io/badge/Total-1747-blue) ![Easy](https://img.shields.io/badge/Easy-539-success) ![Medium](https://img.shields.io/badge/Medium-939-orange) ![Hard](https://img.shields.io/badge/Hard-269-red)
+![Total](https://img.shields.io/badge/Total-1754-blue) ![Easy](https://img.shields.io/badge/Easy-541-success) ![Medium](https://img.shields.io/badge/Medium-943-orange) ![Hard](https://img.shields.io/badge/Hard-270-red)
 
 My solutions for LeetCode problems.
 
 - **LeetCode Profile:** [Avuvos](https://leetcode.com/Avuvos/)
-- **Total Solved:** 1747
+- **Total Solved:** 1754
 - **Global Rank:** Top 0.31%
 
 ## Solutions
@@ -1720,6 +1720,9 @@ My solutions for LeetCode problems.
 | 3950 | [Exactly One Consecutive Set Bits Pair](https://leetcode.com/problems/exactly-one-consecutive-set-bits-pair/) | Easy | [cpp](./solutions/3501-4000/3950-exactly-one-consecutive-set-bits-pair.cpp) |
 | 3951 | [Minimum Energy to Maintain Brightness](https://leetcode.com/problems/minimum-energy-to-maintain-brightness/) | Medium | [cpp](./solutions/3501-4000/3951-minimum-energy-to-maintain-brightness.cpp) |
 | 3952 | [Maximum Total Value of Covered Indices](https://leetcode.com/problems/maximum-total-value-of-covered-indices/) | Medium | [cpp](./solutions/3501-4000/3952-maximum-total-value-of-covered-indices.cpp) |
+| 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer/) | Easy | [cpp](./solutions/3501-4000/3959-check-good-integer.cpp) |
+| 3960 | [Frequency Balance Subarray](https://leetcode.com/problems/frequency-balance-subarray/) | Medium | [cpp](./solutions/3501-4000/3960-frequency-balance-subarray.cpp) |
+| 3961 | [Maximize Sum of Device Ratings](https://leetcode.com/problems/maximize-sum-of-device-ratings/) | Medium | [cpp](./solutions/3501-4000/3961-maximize-sum-of-device-ratings.cpp) |
 | 3974 | [Maximum Total Sum of K Selected Elements](https://leetcode.com/problems/maximum-total-sum-of-k-selected-elements/) | Medium | [cpp](./solutions/3501-4000/3974-maximum-total-sum-of-k-selected-elements.cpp) |
 | 3975 | [Filter Occupied Intervals](https://leetcode.com/problems/filter-occupied-intervals/) | Medium | [cpp](./solutions/3501-4000/3975-filter-occupied-intervals.cpp) |
 | 3978 | [Unique Middle Element](https://leetcode.com/problems/unique-middle-element/) | Easy | [cpp](./solutions/3501-4000/3978-unique-middle-element.cpp) |
@@ -1742,6 +1745,10 @@ My solutions for LeetCode problems.
 | 4014 | [Minimum Total Price After Applying Discounts](https://leetcode.com/problems/minimum-total-price-after-applying-discounts/) | Medium | [cpp](./solutions/4001-4500/4014-minimum-total-price-after-applying-discounts.cpp) |
 | 4015 | [Weighted Sum of a Tree](https://leetcode.com/problems/weighted-sum-of-a-tree/) | Medium | [cpp](./solutions/4001-4500/4015-weighted-sum-of-a-tree.cpp) |
 | 4016 | [Maximum Area of Two Non-Overlapping Square Submatrices](https://leetcode.com/problems/maximum-area-of-two-non-overlapping-square-submatrices/) | Medium | [cpp](./solutions/4001-4500/4016-maximum-area-of-two-non-overlapping-square-submatrices.cpp) |
+| 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i/) | Easy | [cpp](./solutions/4001-4500/4020-elevator-requests-i.cpp) |
+| 4021 | [Minimum Operations to Make a Rotated Palindrome I](https://leetcode.com/problems/minimum-operations-to-make-a-rotated-palindrome-i/) | Medium | [cpp](./solutions/4001-4500/4021-minimum-operations-to-make-a-rotated-palindrome-i.cpp) |
+| 4022 | [K-th Digit in Infinite String](https://leetcode.com/problems/k-th-digit-in-infinite-string/) | Medium | [cpp](./solutions/4001-4500/4022-k-th-digit-in-infinite-string.cpp) |
+| 4023 | [Elevator Requests II](https://leetcode.com/problems/elevator-requests-ii/) | Hard | [cpp](./solutions/4001-4500/4023-elevator-requests-ii.cpp) |
 | 4024 | [Nearest Available Drone](https://leetcode.com/problems/nearest-available-drone/) | Easy | [cpp](./solutions/4001-4500/4024-nearest-available-drone.cpp) |
 | 4025 | [Minimize the Maximum Waiting Time at Synchronized Traffic Lights](https://leetcode.com/problems/minimize-the-maximum-waiting-time-at-synchronized-traffic-lights/) | Medium | [cpp](./solutions/4001-4500/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights.cpp) |
 | 4026 | [Maximum Gap Between Stations](https://leetcode.com/problems/maximum-gap-between-stations/) | Medium | [cpp](./solutions/4001-4500/4026-maximum-gap-between-stations.cpp) |
