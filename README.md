@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-![Total](https://img.shields.io/badge/Total-1754-blue) ![Easy](https://img.shields.io/badge/Easy-541-success) ![Medium](https://img.shields.io/badge/Medium-943-orange) ![Hard](https://img.shields.io/badge/Hard-270-red)
+![Total](https://img.shields.io/badge/Total-1758-blue) ![Easy](https://img.shields.io/badge/Easy-542-success) ![Medium](https://img.shields.io/badge/Medium-945-orange) ![Hard](https://img.shields.io/badge/Hard-271-red)
 
 My solutions for LeetCode problems.
 
 - **LeetCode Profile:** [Avuvos](https://leetcode.com/Avuvos/)
-- **Total Solved:** 1754
+- **Total Solved:** 1758
 - **Global Rank:** Top 0.31%
 
 ## Solutions
@@ -1732,6 +1732,10 @@ My solutions for LeetCode problems.
 | 3982 | [Sum of Integers with Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range/) | Easy | [cpp](./solutions/3501-4000/3982-sum-of-integers-with-maximum-digit-range.cpp) |
 | 3986 | [Number of Elapsed Seconds Between Two Times](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times/) | Easy | [cpp](./solutions/3501-4000/3986-number-of-elapsed-seconds-between-two-times.cpp) |
 | 3987 | [Minimum Total Cost to Process All Elements](https://leetcode.com/problems/minimum-total-cost-to-process-all-elements/) | Medium | [cpp](./solutions/3501-4000/3987-minimum-total-cost-to-process-all-elements.cpp) |
+| 3996 | [Even Number of Knight Moves](https://leetcode.com/problems/even-number-of-knight-moves/) | Easy | [cpp](./solutions/3501-4000/3996-even-number-of-knight-moves.cpp) |
+| 3997 | [Count Dominant Nodes in a Binary Tree](https://leetcode.com/problems/count-dominant-nodes-in-a-binary-tree/) | Medium | [cpp](./solutions/3501-4000/3997-count-dominant-nodes-in-a-binary-tree.cpp) |
+| 3998 | [Transform Binary String Using Subsequence Sort](https://leetcode.com/problems/transform-binary-string-using-subsequence-sort/) | Medium | [cpp](./solutions/3501-4000/3998-transform-binary-string-using-subsequence-sort.cpp) |
+| 3999 | [Minimum Number of String Groups Through Transformations](https://leetcode.com/problems/minimum-number-of-string-groups-through-transformations/) | Hard | [cpp](./solutions/3501-4000/3999-minimum-number-of-string-groups-through-transformations.cpp) |
 | 4000 | [Largest Integer With Given Digit Sum](https://leetcode.com/problems/largest-integer-with-given-digit-sum/) | Easy | [cpp](./solutions/3501-4000/4000-largest-integer-with-given-digit-sum.cpp) |
 | 4001 | [Aggregate Two Time Series](https://leetcode.com/problems/aggregate-two-time-series/) | Medium | [cpp](./solutions/4001-4500/4001-aggregate-two-time-series.cpp) |
 | 4002 | [Count Valid Sequences](https://leetcode.com/problems/count-valid-sequences/) | Medium | [cpp](./solutions/4001-4500/4002-count-valid-sequences.cpp) |
