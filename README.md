@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-![Total](https://img.shields.io/badge/Total-1758-blue) ![Easy](https://img.shields.io/badge/Easy-542-success) ![Medium](https://img.shields.io/badge/Medium-945-orange) ![Hard](https://img.shields.io/badge/Hard-271-red)
+![Total](https://img.shields.io/badge/Total-1765-blue) ![Easy](https://img.shields.io/badge/Easy-543-success) ![Medium](https://img.shields.io/badge/Medium-950-orange) ![Hard](https://img.shields.io/badge/Hard-272-red)
 
 My solutions for LeetCode problems.
 
 - **LeetCode Profile:** [Avuvos](https://leetcode.com/Avuvos/)
-- **Total Solved:** 1758
+- **Total Solved:** 1765
 - **Global Rank:** Top 0.31%
 
 ## Solutions
@@ -1723,6 +1723,13 @@ My solutions for LeetCode problems.
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer/) | Easy | [cpp](./solutions/3501-4000/3959-check-good-integer.cpp) |
 | 3960 | [Frequency Balance Subarray](https://leetcode.com/problems/frequency-balance-subarray/) | Medium | [cpp](./solutions/3501-4000/3960-frequency-balance-subarray.cpp) |
 | 3961 | [Maximize Sum of Device Ratings](https://leetcode.com/problems/maximize-sum-of-device-ratings/) | Medium | [cpp](./solutions/3501-4000/3961-maximize-sum-of-device-ratings.cpp) |
+| 3963 | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | Easy | [cpp](./solutions/3501-4000/3963-create-grid-with-exactly-one-path.cpp) |
+| 3964 | [Minimum Lights to Illuminate a Road](https://leetcode.com/problems/minimum-lights-to-illuminate-a-road/) | Medium | [cpp](./solutions/3501-4000/3964-minimum-lights-to-illuminate-a-road.cpp) |
+| 3965 | [Finish Time of Tasks I](https://leetcode.com/problems/finish-time-of-tasks-i/) | Medium | [cpp](./solutions/3501-4000/3965-finish-time-of-tasks-i.cpp) |
+| 3966 | [Count Good Integers in a Range](https://leetcode.com/problems/count-good-integers-in-a-range/) | Hard | [cpp](./solutions/3501-4000/3966-count-good-integers-in-a-range.cpp) |
+| 3968 | [Maximum Manhattan Distance After All Moves](https://leetcode.com/problems/maximum-manhattan-distance-after-all-moves/) | Medium | [cpp](./solutions/3501-4000/3968-maximum-manhattan-distance-after-all-moves.cpp) |
+| 3969 | [Valid Subarrays With Matching Sum Digits I](https://leetcode.com/problems/valid-subarrays-with-matching-sum-digits-i/) | Medium | [cpp](./solutions/3501-4000/3969-valid-subarrays-with-matching-sum-digits-i.cpp) |
+| 3970 | [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium | [cpp](./solutions/3501-4000/3970-shortest-path-with-at-most-k-consecutive-identical-characters.cpp) |
 | 3974 | [Maximum Total Sum of K Selected Elements](https://leetcode.com/problems/maximum-total-sum-of-k-selected-elements/) | Medium | [cpp](./solutions/3501-4000/3974-maximum-total-sum-of-k-selected-elements.cpp) |
 | 3975 | [Filter Occupied Intervals](https://leetcode.com/problems/filter-occupied-intervals/) | Medium | [cpp](./solutions/3501-4000/3975-filter-occupied-intervals.cpp) |
 | 3978 | [Unique Middle Element](https://leetcode.com/problems/unique-middle-element/) | Easy | [cpp](./solutions/3501-4000/3978-unique-middle-element.cpp) |
