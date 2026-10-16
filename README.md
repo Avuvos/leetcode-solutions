@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-![Total](https://img.shields.io/badge/Total-1765-blue) ![Easy](https://img.shields.io/badge/Easy-543-success) ![Medium](https://img.shields.io/badge/Medium-950-orange) ![Hard](https://img.shields.io/badge/Hard-272-red)
+![Total](https://img.shields.io/badge/Total-1769-blue) ![Easy](https://img.shields.io/badge/Easy-544-success) ![Medium](https://img.shields.io/badge/Medium-952-orange) ![Hard](https://img.shields.io/badge/Hard-273-red)
 
 My solutions for LeetCode problems.
 
 - **LeetCode Profile:** [Avuvos](https://leetcode.com/Avuvos/)
-- **Total Solved:** 1765
+- **Total Solved:** 1769
 - **Global Rank:** Top 0.31%
 
 ## Solutions
@@ -1777,3 +1777,7 @@ My solutions for LeetCode problems.
 | 4048 | [Count Values With Equally Spaced Occurrences I](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-i/) | Easy | [cpp](./solutions/4001-4500/4048-count-values-with-equally-spaced-occurrences-i.cpp) |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | Medium | [cpp](./solutions/4001-4500/4049-count-values-with-equally-spaced-occurrences-ii.cpp) |
 | 4050 | [Minimum Days to Score Exactly N Points](https://leetcode.com/problems/minimum-days-to-score-exactly-n-points/) | Medium | [cpp](./solutions/4001-4500/4050-minimum-days-to-score-exactly-n-points.cpp) |
+| 4078 | [Three Fibonacci Sum](https://leetcode.com/problems/three-fibonacci-sum/) | Easy | [cpp](./solutions/4001-4500/4078-three-fibonacci-sum.cpp) |
+| 4079 | [Prime Subset Selection I](https://leetcode.com/problems/prime-subset-selection-i/) | Medium | [cpp](./solutions/4001-4500/4079-prime-subset-selection-i.cpp) |
+| 4080 | [Design Bus Seat Booking System](https://leetcode.com/problems/design-bus-seat-booking-system/) | Medium | [cpp](./solutions/4001-4500/4080-design-bus-seat-booking-system.cpp) |
+| 4081 | [Prime Subset Selection II](https://leetcode.com/problems/prime-subset-selection-ii/) | Hard | [cpp](./solutions/4001-4500/4081-prime-subset-selection-ii.cpp) |
