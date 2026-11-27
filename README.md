@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-![Total](https://img.shields.io/badge/Total-1769-blue) ![Easy](https://img.shields.io/badge/Easy-544-success) ![Medium](https://img.shields.io/badge/Medium-952-orange) ![Hard](https://img.shields.io/badge/Hard-273-red)
+![Total](https://img.shields.io/badge/Total-1783-blue) ![Easy](https://img.shields.io/badge/Easy-548-success) ![Medium](https://img.shields.io/badge/Medium-962-orange) ![Hard](https://img.shields.io/badge/Hard-273-red)
 
 My solutions for LeetCode problems.
 
 - **LeetCode Profile:** [Avuvos](https://leetcode.com/Avuvos/)
-- **Total Solved:** 1769
+- **Total Solved:** 1783
 - **Global Rank:** Top 0.31%
 
 ## Solutions
@@ -1781,3 +1781,17 @@ My solutions for LeetCode problems.
 | 4079 | [Prime Subset Selection I](https://leetcode.com/problems/prime-subset-selection-i/) | Medium | [cpp](./solutions/4001-4500/4079-prime-subset-selection-i.cpp) |
 | 4080 | [Design Bus Seat Booking System](https://leetcode.com/problems/design-bus-seat-booking-system/) | Medium | [cpp](./solutions/4001-4500/4080-design-bus-seat-booking-system.cpp) |
 | 4081 | [Prime Subset Selection II](https://leetcode.com/problems/prime-subset-selection-ii/) | Hard | [cpp](./solutions/4001-4500/4081-prime-subset-selection-ii.cpp) |
+| 4083 | [Minimum Deletions to Make Array Sharp](https://leetcode.com/problems/minimum-deletions-to-make-array-sharp/) | Easy | [cpp](./solutions/4001-4500/4083-minimum-deletions-to-make-array-sharp.cpp) |
+| 4084 | [Last Visited Cell in a Directional Grid](https://leetcode.com/problems/last-visited-cell-in-a-directional-grid/) | Medium | [cpp](./solutions/4001-4500/4084-last-visited-cell-in-a-directional-grid.cpp) |
+| 4088 | [Difference Between Peaks and Valleys](https://leetcode.com/problems/difference-between-peaks-and-valleys/) | Easy | [cpp](./solutions/4001-4500/4088-difference-between-peaks-and-valleys.cpp) |
+| 4089 | [Count Subarrays With Loose Bounds](https://leetcode.com/problems/count-subarrays-with-loose-bounds/) | Medium | [cpp](./solutions/4001-4500/4089-count-subarrays-with-loose-bounds.cpp) |
+| 4090 | [Count Magical Substring Pairs I](https://leetcode.com/problems/count-magical-substring-pairs-i/) | Medium | [cpp](./solutions/4001-4500/4090-count-magical-substring-pairs-i.cpp) |
+| 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | Easy | [cpp](./solutions/4001-4500/4092-binary-digit-score.cpp) |
+| 4093 | [Maximize Sum After At Most K Digit Rearrangements](https://leetcode.com/problems/maximize-sum-after-at-most-k-digit-rearrangements/) | Medium | [cpp](./solutions/4001-4500/4093-maximize-sum-after-at-most-k-digit-rearrangements.cpp) |
+| 4102 | [Count Valid Substrings I](https://leetcode.com/problems/count-valid-substrings-i/) | Medium | [cpp](./solutions/4001-4500/4102-count-valid-substrings-i.cpp) |
+| 4103 | [Remove Elements by Type and Color](https://leetcode.com/problems/remove-elements-by-type-and-color/) | Medium | [cpp](./solutions/4001-4500/4103-remove-elements-by-type-and-color.cpp) |
+| 4104 | [Count Valid Substrings II](https://leetcode.com/problems/count-valid-substrings-ii/) | Medium | [cpp](./solutions/4001-4500/4104-count-valid-substrings-ii.cpp) |
+| 4106 | [Find Mismatched Segments Between Two Strings](https://leetcode.com/problems/find-mismatched-segments-between-two-strings/) | Medium | [cpp](./solutions/4001-4500/4106-find-mismatched-segments-between-two-strings.cpp) |
+| 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | Easy | [cpp](./solutions/4001-4500/4111-count-consistent-subarrays-i.cpp) |
+| 4112 | [Maximize Score After Zeroing Subtrees](https://leetcode.com/problems/maximize-score-after-zeroing-subtrees/) | Medium | [cpp](./solutions/4001-4500/4112-maximize-score-after-zeroing-subtrees.cpp) |
+| 4113 | [Game of Divisible Sums](https://leetcode.com/problems/game-of-divisible-sums/) | Medium | [cpp](./solutions/4001-4500/4113-game-of-divisible-sums.cpp) |
